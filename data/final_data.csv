@@ -1,0 +1,994 @@
+BirdName,State,NumBird,BirdScientificName,TotalBird
+Acadian Flycatcher,Alabama,270,Empidonax virescens,6466
+Acadian Flycatcher,Arkansas,505,Empidonax virescens,6466
+Acadian Flycatcher,Delaware,103,Empidonax virescens,6466
+Acadian Flycatcher,Florida,270,Empidonax virescens,6466
+Acadian Flycatcher,Georgia,516,Empidonax virescens,6466
+Acadian Flycatcher,Kentucky,686,Empidonax virescens,6466
+Acadian Flycatcher,Maine,207,Empidonax virescens,6466
+Acadian Flycatcher,Maryland,207,Empidonax virescens,6466
+Acadian Flycatcher,Mississippi,673,Empidonax virescens,6466
+Acadian Flycatcher,Missouri,914,Empidonax virescens,6466
+Acadian Flycatcher,New York,310,Empidonax virescens,6466
+Acadian Flycatcher,North Carolina,208,Empidonax virescens,6466
+Acadian Flycatcher,Pennsylvania,75,Empidonax virescens,6466
+Acadian Flycatcher,South Carolina,156,Empidonax virescens,6466
+Acadian Flycatcher,Tennessee,1191,Empidonax virescens,6466
+Acadian Flycatcher,Virginia,75,Empidonax virescens,6466
+Acadian Flycatcher,West Virginia,100,Empidonax virescens,6466
+American Goldfinch,Alaska,698,Spinus tristis,15050
+American Goldfinch,Arizona,174,Spinus tristis,15050
+American Goldfinch,California,1576,Spinus tristis,15050
+American Goldfinch,Colorado,435,Spinus tristis,15050
+American Goldfinch,Delaware,88,Spinus tristis,15050
+American Goldfinch,Georgia,142,Spinus tristis,15050
+American Goldfinch,Idaho,110,Spinus tristis,15050
+American Goldfinch,Illinois,870,Spinus tristis,15050
+American Goldfinch,Indiana,653,Spinus tristis,15050
+American Goldfinch,Iowa,653,Spinus tristis,15050
+American Goldfinch,Kentucky,360,Spinus tristis,15050
+American Goldfinch,Maine,493,Spinus tristis,15050
+American Goldfinch,Maryland,175,Spinus tristis,15050
+American Goldfinch,Michigan,436,Spinus tristis,15050
+American Goldfinch,Minnesota,830,Spinus tristis,15050
+American Goldfinch,Missouri,480,Spinus tristis,15050
+American Goldfinch,Montana,660,Spinus tristis,15050
+American Goldfinch,Nevada,509,Spinus tristis,15050
+American Goldfinch,New Hampshire,106,Spinus tristis,15050
+American Goldfinch,New York,262,Spinus tristis,15050
+American Goldfinch,North Carolina,189,Spinus tristis,15050
+American Goldfinch,North Dakota,423,Spinus tristis,15050
+American Goldfinch,Oregon,279,Spinus tristis,15050
+American Goldfinch,Pennsylvania,367,Spinus tristis,15050
+American Goldfinch,South Carolina,142,Spinus tristis,15050
+American Goldfinch,South Dakota,254,Spinus tristis,15050
+American Goldfinch,Tennessee,360,Spinus tristis,15050
+American Goldfinch,Utah,600,Spinus tristis,15050
+American Goldfinch,Vermont,106,Spinus tristis,15050
+American Goldfinch,Virginia,367,Spinus tristis,15050
+American Goldfinch,Washington,419,Spinus tristis,15050
+American Goldfinch,West Virginia,489,Spinus tristis,15050
+American Goldfinch,Wisconsin,1015,Spinus tristis,15050
+American Goldfinch,Wyoming,330,Spinus tristis,15050
+American Redstart,Alabama,31,Setophaga ruticilla,6195
+American Redstart,Arkansas,47,Setophaga ruticilla,6195
+American Redstart,Delaware,56,Setophaga ruticilla,6195
+American Redstart,Florida,31,Setophaga ruticilla,6195
+American Redstart,Georgia,41,Setophaga ruticilla,6195
+American Redstart,Idaho,82,Setophaga ruticilla,6195
+American Redstart,Illinois,66,Setophaga ruticilla,6195
+American Redstart,Indiana,50,Setophaga ruticilla,6195
+American Redstart,Iowa,50,Setophaga ruticilla,6195
+American Redstart,Kentucky,85,Setophaga ruticilla,6195
+American Redstart,Maine,551,Setophaga ruticilla,6195
+American Redstart,Maryland,111,Setophaga ruticilla,6195
+American Redstart,Michigan,298,Setophaga ruticilla,6195
+American Redstart,Minnesota,620,Setophaga ruticilla,6195
+American Redstart,Mississippi,63,Setophaga ruticilla,6195
+American Redstart,Missouri,113,Setophaga ruticilla,6195
+American Redstart,Montana,494,Setophaga ruticilla,6195
+American Redstart,New Hampshire,139,Setophaga ruticilla,6195
+American Redstart,New York,166,Setophaga ruticilla,6195
+American Redstart,North Dakota,190,Setophaga ruticilla,6195
+American Redstart,Pennsylvania,544,Setophaga ruticilla,6195
+American Redstart,South Dakota,114,Setophaga ruticilla,6195
+American Redstart,Tennessee,132,Setophaga ruticilla,6195
+American Redstart,Vermont,139,Setophaga ruticilla,6195
+American Redstart,Virginia,544,Setophaga ruticilla,6195
+American Redstart,West Virginia,726,Setophaga ruticilla,6195
+American Redstart,Wisconsin,465,Setophaga ruticilla,6195
+American Redstart,Wyoming,247,Setophaga ruticilla,6195
+American Robin,Alabama,68,Turdus migratorius,18473
+American Robin,Alaska,1392,Turdus migratorius,18473
+American Robin,Arizona,277,Turdus migratorius,18473
+American Robin,California,1698,Turdus migratorius,18473
+American Robin,Colorado,692,Turdus migratorius,18473
+American Robin,Delaware,154,Turdus migratorius,18473
+American Robin,Florida,68,Turdus migratorius,18473
+American Robin,Georgia,306,Turdus migratorius,18473
+American Robin,Idaho,268,Turdus migratorius,18473
+American Robin,Illinois,366,Turdus migratorius,18473
+American Robin,Indiana,274,Turdus migratorius,18473
+American Robin,Iowa,274,Turdus migratorius,18473
+American Robin,Kentucky,117,Turdus migratorius,18473
+American Robin,Maine,655,Turdus migratorius,18473
+American Robin,Maryland,308,Turdus migratorius,18473
+American Robin,Michigan,197,Turdus migratorius,18473
+American Robin,Minnesota,481,Turdus migratorius,18473
+American Robin,Missouri,156,Turdus migratorius,18473
+American Robin,Montana,1605,Turdus migratorius,18473
+American Robin,Nevada,2349,Turdus migratorius,18473
+American Robin,New Hampshire,116,Turdus migratorius,18473
+American Robin,New York,461,Turdus migratorius,18473
+American Robin,North Carolina,288,Turdus migratorius,18473
+American Robin,North Dakota,352,Turdus migratorius,18473
+American Robin,Oregon,439,Turdus migratorius,18473
+American Robin,Pennsylvania,220,Turdus migratorius,18473
+American Robin,South Carolina,216,Turdus migratorius,18473
+American Robin,South Dakota,211,Turdus migratorius,18473
+American Robin,Tennessee,117,Turdus migratorius,18473
+American Robin,Utah,1819,Turdus migratorius,18473
+American Robin,Vermont,116,Turdus migratorius,18473
+American Robin,Virginia,220,Turdus migratorius,18473
+American Robin,Washington,659,Turdus migratorius,18473
+American Robin,West Virginia,294,Turdus migratorius,18473
+American Robin,Wisconsin,438,Turdus migratorius,18473
+American Robin,Wyoming,802,Turdus migratorius,18473
+Bewick's Wren,Alaska,294,Thryomanes bewickii,3981
+Bewick's Wren,Arizona,203,Thryomanes bewickii,3981
+Bewick's Wren,California,2237,Thryomanes bewickii,3981
+Bewick's Wren,Colorado,148,Thryomanes bewickii,3981
+Bewick's Wren,Nevada,191,Thryomanes bewickii,3981
+Bewick's Wren,Oregon,117,Thryomanes bewickii,3981
+Bewick's Wren,Texas,398,Thryomanes bewickii,3981
+Bewick's Wren,Utah,217,Thryomanes bewickii,3981
+Bewick's Wren,Washington,176,Thryomanes bewickii,3981
+Black-capped Chickadee,Alaska,443,Poecile atricapillus,6835
+Black-capped Chickadee,Arizona,111,Poecile atricapillus,6835
+Black-capped Chickadee,Colorado,278,Poecile atricapillus,6835
+Black-capped Chickadee,Delaware,110,Poecile atricapillus,6835
+Black-capped Chickadee,Idaho,132,Poecile atricapillus,6835
+Black-capped Chickadee,Illinois,238,Poecile atricapillus,6835
+Black-capped Chickadee,Indiana,178,Poecile atricapillus,6835
+Black-capped Chickadee,Iowa,178,Poecile atricapillus,6835
+Black-capped Chickadee,Maine,590,Poecile atricapillus,6835
+Black-capped Chickadee,Maryland,221,Poecile atricapillus,6835
+Black-capped Chickadee,Michigan,206,Poecile atricapillus,6835
+Black-capped Chickadee,Minnesota,408,Poecile atricapillus,6835
+Black-capped Chickadee,Montana,794,Poecile atricapillus,6835
+Black-capped Chickadee,Nevada,124,Poecile atricapillus,6835
+Black-capped Chickadee,New Hampshire,123,Poecile atricapillus,6835
+Black-capped Chickadee,New York,332,Poecile atricapillus,6835
+Black-capped Chickadee,North Dakota,188,Poecile atricapillus,6835
+Black-capped Chickadee,Oregon,119,Poecile atricapillus,6835
+Black-capped Chickadee,Pennsylvania,173,Poecile atricapillus,6835
+Black-capped Chickadee,South Dakota,112,Poecile atricapillus,6835
+Black-capped Chickadee,Utah,249,Poecile atricapillus,6835
+Black-capped Chickadee,Vermont,123,Poecile atricapillus,6835
+Black-capped Chickadee,Virginia,173,Poecile atricapillus,6835
+Black-capped Chickadee,Washington,179,Poecile atricapillus,6835
+Black-capped Chickadee,West Virginia,231,Poecile atricapillus,6835
+Black-capped Chickadee,Wisconsin,425,Poecile atricapillus,6835
+Black-capped Chickadee,Wyoming,397,Poecile atricapillus,6835
+Black-headed Grosbeak,Alaska,1024,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Arizona,322,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,California,2805,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Colorado,496,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Idaho,94,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Minnesota,23,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Montana,563,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Nevada,1232,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,North Dakota,58,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Oregon,409,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,South Dakota,35,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Utah,1016,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Washington,614,Pheucticus melanocephalus,8972
+Black-headed Grosbeak,Wyoming,281,Pheucticus melanocephalus,8972
+Brown-headed Cowbird,Alaska,201,Molothrus ater,4347
+Brown-headed Cowbird,Arizona,107,Molothrus ater,4347
+Brown-headed Cowbird,Arkansas,78,Molothrus ater,4347
+Brown-headed Cowbird,California,393,Molothrus ater,4347
+Brown-headed Cowbird,Colorado,184,Molothrus ater,4347
+Brown-headed Cowbird,Delaware,16,Molothrus ater,4347
+Brown-headed Cowbird,Idaho,53,Molothrus ater,4347
+Brown-headed Cowbird,Illinois,186,Molothrus ater,4347
+Brown-headed Cowbird,Indiana,139,Molothrus ater,4347
+Brown-headed Cowbird,Iowa,139,Molothrus ater,4347
+Brown-headed Cowbird,Kansas,155,Molothrus ater,4347
+Brown-headed Cowbird,Kentucky,75,Molothrus ater,4347
+Brown-headed Cowbird,Maine,32,Molothrus ater,4347
+Brown-headed Cowbird,Maryland,32,Molothrus ater,4347
+Brown-headed Cowbird,Michigan,56,Molothrus ater,4347
+Brown-headed Cowbird,Minnesota,126,Molothrus ater,4347
+Brown-headed Cowbird,Mississippi,104,Molothrus ater,4347
+Brown-headed Cowbird,Missouri,100,Molothrus ater,4347
+Brown-headed Cowbird,Montana,317,Molothrus ater,4347
+Brown-headed Cowbird,Nevada,434,Molothrus ater,4347
+Brown-headed Cowbird,New York,47,Molothrus ater,4347
+Brown-headed Cowbird,North Dakota,104,Molothrus ater,4347
+Brown-headed Cowbird,Oklahoma,93,Molothrus ater,4347
+Brown-headed Cowbird,Oregon,80,Molothrus ater,4347
+Brown-headed Cowbird,South Dakota,62,Molothrus ater,4347
+Brown-headed Cowbird,Tennessee,153,Molothrus ater,4347
+Brown-headed Cowbird,Texas,62,Molothrus ater,4347
+Brown-headed Cowbird,Utah,400,Molothrus ater,4347
+Brown-headed Cowbird,Washington,121,Molothrus ater,4347
+Brown-headed Cowbird,Wisconsin,140,Molothrus ater,4347
+Brown-headed Cowbird,Wyoming,158,Molothrus ater,4347
+Bullock's Oriole,Alaska,240,Icterus bullockii,2817
+Bullock's Oriole,Arizona,80,Icterus bullockii,2817
+Bullock's Oriole,California,576,Icterus bullockii,2817
+Bullock's Oriole,Colorado,128,Icterus bullockii,2817
+Bullock's Oriole,Idaho,28,Icterus bullockii,2817
+Bullock's Oriole,Montana,166,Icterus bullockii,2817
+Bullock's Oriole,Nevada,650,Icterus bullockii,2817
+Bullock's Oriole,Oregon,96,Icterus bullockii,2817
+Bullock's Oriole,Texas,117,Icterus bullockii,2817
+Bullock's Oriole,Utah,509,Icterus bullockii,2817
+Bullock's Oriole,Washington,144,Icterus bullockii,2817
+Bullock's Oriole,Wyoming,83,Icterus bullockii,2817
+Bushtit,Alaska,268,Psaltriparus minimus,4305
+Bushtit,Arizona,85,Psaltriparus minimus,4305
+Bushtit,California,3121,Psaltriparus minimus,4305
+Bushtit,Colorado,212,Psaltriparus minimus,4305
+Bushtit,Nevada,134,Psaltriparus minimus,4305
+Bushtit,Oregon,107,Psaltriparus minimus,4305
+Bushtit,Utah,217,Psaltriparus minimus,4305
+Bushtit,Washington,161,Psaltriparus minimus,4305
+Carolina Wren,Alabama,512,Thryothorus ludovicianus,7895
+Carolina Wren,Arkansas,763,Thryothorus ludovicianus,7895
+Carolina Wren,Delaware,63,Thryothorus ludovicianus,7895
+Carolina Wren,Florida,512,Thryothorus ludovicianus,7895
+Carolina Wren,Georgia,910,Thryothorus ludovicianus,7895
+Carolina Wren,Illinois,153,Thryothorus ludovicianus,7895
+Carolina Wren,Indiana,115,Thryothorus ludovicianus,7895
+Carolina Wren,Iowa,115,Thryothorus ludovicianus,7895
+Carolina Wren,Kentucky,311,Thryothorus ludovicianus,7895
+Carolina Wren,Louisiana,99,Thryothorus ludovicianus,7895
+Carolina Wren,Maine,127,Thryothorus ludovicianus,7895
+Carolina Wren,Maryland,127,Thryothorus ludovicianus,7895
+Carolina Wren,Mississippi,885,Thryothorus ludovicianus,7895
+Carolina Wren,Missouri,415,Thryothorus ludovicianus,7895
+Carolina Wren,New York,190,Thryothorus ludovicianus,7895
+Carolina Wren,North Carolina,304,Thryothorus ludovicianus,7895
+Carolina Wren,Pennsylvania,222,Thryothorus ludovicianus,7895
+Carolina Wren,South Carolina,228,Thryothorus ludovicianus,7895
+Carolina Wren,Tennessee,975,Thryothorus ludovicianus,7895
+Carolina Wren,Texas,351,Thryothorus ludovicianus,7895
+Carolina Wren,Virginia,222,Thryothorus ludovicianus,7895
+Carolina Wren,West Virginia,296,Thryothorus ludovicianus,7895
+Common Yellowthroat,Alabama,200,Geothlypis trichas,20132
+Common Yellowthroat,Alaska,608,Geothlypis trichas,20132
+Common Yellowthroat,Arizona,259,Geothlypis trichas,20132
+Common Yellowthroat,Arkansas,93,Geothlypis trichas,20132
+Common Yellowthroat,California,3689,Geothlypis trichas,20132
+Common Yellowthroat,Colorado,74,Geothlypis trichas,20132
+Common Yellowthroat,Delaware,180,Geothlypis trichas,20132
+Common Yellowthroat,Florida,200,Geothlypis trichas,20132
+Common Yellowthroat,Georgia,619,Geothlypis trichas,20132
+Common Yellowthroat,Idaho,174,Geothlypis trichas,20132
+Common Yellowthroat,Illinois,686,Geothlypis trichas,20132
+Common Yellowthroat,Indiana,515,Geothlypis trichas,20132
+Common Yellowthroat,Iowa,515,Geothlypis trichas,20132
+Common Yellowthroat,Kentucky,577,Geothlypis trichas,20132
+Common Yellowthroat,Louisiana,34,Geothlypis trichas,20132
+Common Yellowthroat,Maine,832,Geothlypis trichas,20132
+Common Yellowthroat,Maryland,359,Geothlypis trichas,20132
+Common Yellowthroat,Michigan,552,Geothlypis trichas,20132
+Common Yellowthroat,Minnesota,952,Geothlypis trichas,20132
+Common Yellowthroat,Mississippi,79,Geothlypis trichas,20132
+Common Yellowthroat,Missouri,769,Geothlypis trichas,20132
+Common Yellowthroat,Montana,1046,Geothlypis trichas,20132
+Common Yellowthroat,Nevada,409,Geothlypis trichas,20132
+Common Yellowthroat,New Hampshire,158,Geothlypis trichas,20132
+Common Yellowthroat,New York,538,Geothlypis trichas,20132
+Common Yellowthroat,North Carolina,469,Geothlypis trichas,20132
+Common Yellowthroat,North Dakota,242,Geothlypis trichas,20132
+Common Yellowthroat,Oregon,243,Geothlypis trichas,20132
+Common Yellowthroat,Pennsylvania,382,Geothlypis trichas,20132
+Common Yellowthroat,South Carolina,352,Geothlypis trichas,20132
+Common Yellowthroat,South Dakota,146,Geothlypis trichas,20132
+Common Yellowthroat,Tennessee,636,Geothlypis trichas,20132
+Common Yellowthroat,Texas,46,Geothlypis trichas,20132
+Common Yellowthroat,Utah,317,Geothlypis trichas,20132
+Common Yellowthroat,Vermont,158,Geothlypis trichas,20132
+Common Yellowthroat,Virginia,382,Geothlypis trichas,20132
+Common Yellowthroat,Washington,365,Geothlypis trichas,20132
+Common Yellowthroat,West Virginia,510,Geothlypis trichas,20132
+Common Yellowthroat,Wisconsin,1244,Geothlypis trichas,20132
+Common Yellowthroat,Wyoming,523,Geothlypis trichas,20132
+Dark-eyed Junco,Alaska,1977,Junco hyemalis,13112
+Dark-eyed Junco,Arizona,44,Junco hyemalis,13112
+Dark-eyed Junco,California,3557,Junco hyemalis,13112
+Dark-eyed Junco,Colorado,109,Junco hyemalis,13112
+Dark-eyed Junco,Idaho,131,Junco hyemalis,13112
+Dark-eyed Junco,Maine,115,Junco hyemalis,13112
+Dark-eyed Junco,Minnesota,11,Junco hyemalis,13112
+Dark-eyed Junco,Montana,785,Junco hyemalis,13112
+Dark-eyed Junco,Nevada,2666,Junco hyemalis,13112
+Dark-eyed Junco,New Hampshire,38,Junco hyemalis,13112
+Dark-eyed Junco,Oregon,577,Junco hyemalis,13112
+Dark-eyed Junco,Pennsylvania,143,Junco hyemalis,13112
+Dark-eyed Junco,Utah,1328,Junco hyemalis,13112
+Dark-eyed Junco,Vermont,38,Junco hyemalis,13112
+Dark-eyed Junco,Virginia,143,Junco hyemalis,13112
+Dark-eyed Junco,Washington,866,Junco hyemalis,13112
+Dark-eyed Junco,West Virginia,191,Junco hyemalis,13112
+Dark-eyed Junco,Wyoming,393,Junco hyemalis,13112
+Downy Woodpecker,Alabama,53,Dryobates pubescens,4400
+Downy Woodpecker,Alaska,200,Dryobates pubescens,4400
+Downy Woodpecker,Arkansas,74,Dryobates pubescens,4400
+Downy Woodpecker,California,525,Dryobates pubescens,4400
+Downy Woodpecker,Delaware,54,Dryobates pubescens,4400
+Downy Woodpecker,Florida,53,Dryobates pubescens,4400
+Downy Woodpecker,Georgia,136,Dryobates pubescens,4400
+Downy Woodpecker,Idaho,25,Dryobates pubescens,4400
+Downy Woodpecker,Illinois,217,Dryobates pubescens,4400
+Downy Woodpecker,Indiana,163,Dryobates pubescens,4400
+Downy Woodpecker,Iowa,163,Dryobates pubescens,4400
+Downy Woodpecker,Kentucky,149,Dryobates pubescens,4400
+Downy Woodpecker,Maine,205,Dryobates pubescens,4400
+Downy Woodpecker,Maryland,107,Dryobates pubescens,4400
+Downy Woodpecker,Michigan,59,Dryobates pubescens,4400
+Downy Woodpecker,Minnesota,88,Dryobates pubescens,4400
+Downy Woodpecker,Mississippi,99,Dryobates pubescens,4400
+Downy Woodpecker,Missouri,199,Dryobates pubescens,4400
+Downy Woodpecker,Montana,151,Dryobates pubescens,4400
+Downy Woodpecker,Nevada,200,Dryobates pubescens,4400
+Downy Woodpecker,New Hampshire,33,Dryobates pubescens,4400
+Downy Woodpecker,New York,161,Dryobates pubescens,4400
+Downy Woodpecker,North Carolina,87,Dryobates pubescens,4400
+Downy Woodpecker,Oregon,80,Dryobates pubescens,4400
+Downy Woodpecker,Pennsylvania,97,Dryobates pubescens,4400
+Downy Woodpecker,South Carolina,65,Dryobates pubescens,4400
+Downy Woodpecker,Tennessee,223,Dryobates pubescens,4400
+Downy Woodpecker,Utah,133,Dryobates pubescens,4400
+Downy Woodpecker,Vermont,33,Dryobates pubescens,4400
+Downy Woodpecker,Virginia,97,Dryobates pubescens,4400
+Downy Woodpecker,Washington,120,Dryobates pubescens,4400
+Downy Woodpecker,West Virginia,129,Dryobates pubescens,4400
+Downy Woodpecker,Wisconsin,146,Dryobates pubescens,4400
+Downy Woodpecker,Wyoming,76,Dryobates pubescens,4400
+Dusky Flycatcher,Alaska,242,Empidonax oberholseri,5517
+Dusky Flycatcher,Arizona,127,Empidonax oberholseri,5517
+Dusky Flycatcher,California,967,Empidonax oberholseri,5517
+Dusky Flycatcher,Colorado,317,Empidonax oberholseri,5517
+Dusky Flycatcher,Idaho,133,Empidonax oberholseri,5517
+Dusky Flycatcher,Montana,799,Empidonax oberholseri,5517
+Dusky Flycatcher,Nevada,1357,Empidonax oberholseri,5517
+Dusky Flycatcher,Oregon,97,Empidonax oberholseri,5517
+Dusky Flycatcher,Utah,933,Empidonax oberholseri,5517
+Dusky Flycatcher,Washington,145,Empidonax oberholseri,5517
+Dusky Flycatcher,Wyoming,400,Empidonax oberholseri,5517
+Eastern Towhee,Alabama,80,Pipilo erythrophthalmus,2205
+Eastern Towhee,Arkansas,38,Pipilo erythrophthalmus,2205
+Eastern Towhee,Delaware,39,Pipilo erythrophthalmus,2205
+Eastern Towhee,Florida,80,Pipilo erythrophthalmus,2205
+Eastern Towhee,Georgia,175,Pipilo erythrophthalmus,2205
+Eastern Towhee,Illinois,49,Pipilo erythrophthalmus,2205
+Eastern Towhee,Indiana,37,Pipilo erythrophthalmus,2205
+Eastern Towhee,Iowa,37,Pipilo erythrophthalmus,2205
+Eastern Towhee,Kentucky,121,Pipilo erythrophthalmus,2205
+Eastern Towhee,Maine,77,Pipilo erythrophthalmus,2205
+Eastern Towhee,Maryland,77,Pipilo erythrophthalmus,2205
+Eastern Towhee,Michigan,28,Pipilo erythrophthalmus,2205
+Eastern Towhee,Minnesota,42,Pipilo erythrophthalmus,2205
+Eastern Towhee,Mississippi,51,Pipilo erythrophthalmus,2205
+Eastern Towhee,Missouri,161,Pipilo erythrophthalmus,2205
+Eastern Towhee,New York,116,Pipilo erythrophthalmus,2205
+Eastern Towhee,North Carolina,92,Pipilo erythrophthalmus,2205
+Eastern Towhee,Pennsylvania,182,Pipilo erythrophthalmus,2205
+Eastern Towhee,South Carolina,69,Pipilo erythrophthalmus,2205
+Eastern Towhee,Tennessee,159,Pipilo erythrophthalmus,2205
+Eastern Towhee,Virginia,182,Pipilo erythrophthalmus,2205
+Eastern Towhee,West Virginia,243,Pipilo erythrophthalmus,2205
+Eastern Towhee,Wisconsin,70,Pipilo erythrophthalmus,2205
+Field Sparrow,Georgia,89,Spizella pusilla,3951
+Field Sparrow,Illinois,571,Spizella pusilla,3951
+Field Sparrow,Indiana,428,Spizella pusilla,3951
+Field Sparrow,Iowa,428,Spizella pusilla,3951
+Field Sparrow,Kentucky,329,Spizella pusilla,3951
+Field Sparrow,Michigan,161,Spizella pusilla,3951
+Field Sparrow,Minnesota,241,Spizella pusilla,3951
+Field Sparrow,Missouri,438,Spizella pusilla,3951
+Field Sparrow,North Carolina,119,Spizella pusilla,3951
+Field Sparrow,Pennsylvania,98,Spizella pusilla,3951
+Field Sparrow,South Carolina,89,Spizella pusilla,3951
+Field Sparrow,Tennessee,329,Spizella pusilla,3951
+Field Sparrow,Virginia,98,Spizella pusilla,3951
+Field Sparrow,West Virginia,131,Spizella pusilla,3951
+Field Sparrow,Wisconsin,402,Spizella pusilla,3951
+Gray Catbird,Alabama,86,Dumetella carolinensis,24843
+Gray Catbird,Arizona,129,Dumetella carolinensis,24843
+Gray Catbird,Colorado,324,Dumetella carolinensis,24843
+Gray Catbird,Delaware,516,Dumetella carolinensis,24843
+Gray Catbird,Florida,86,Dumetella carolinensis,24843
+Gray Catbird,Georgia,935,Dumetella carolinensis,24843
+Gray Catbird,Idaho,207,Dumetella carolinensis,24843
+Gray Catbird,Illinois,1476,Dumetella carolinensis,24843
+Gray Catbird,Indiana,1107,Dumetella carolinensis,24843
+Gray Catbird,Iowa,1107,Dumetella carolinensis,24843
+Gray Catbird,Kentucky,448,Dumetella carolinensis,24843
+Gray Catbird,Maine,1434,Dumetella carolinensis,24843
+Gray Catbird,Maryland,1033,Dumetella carolinensis,24843
+Gray Catbird,Michigan,727,Dumetella carolinensis,24843
+Gray Catbird,Minnesota,1370,Dumetella carolinensis,24843
+Gray Catbird,Missouri,598,Dumetella carolinensis,24843
+Gray Catbird,Montana,1242,Dumetella carolinensis,24843
+Gray Catbird,Nevada,257,Dumetella carolinensis,24843
+Gray Catbird,New Hampshire,134,Dumetella carolinensis,24843
+Gray Catbird,New York,1549,Dumetella carolinensis,24843
+Gray Catbird,North Carolina,1094,Dumetella carolinensis,24843
+Gray Catbird,North Dakota,686,Dumetella carolinensis,24843
+Gray Catbird,Pennsylvania,1118,Dumetella carolinensis,24843
+Gray Catbird,South Carolina,820,Dumetella carolinensis,24843
+Gray Catbird,South Dakota,412,Dumetella carolinensis,24843
+Gray Catbird,Tennessee,448,Dumetella carolinensis,24843
+Gray Catbird,Utah,365,Dumetella carolinensis,24843
+Gray Catbird,Vermont,134,Dumetella carolinensis,24843
+Gray Catbird,Virginia,1118,Dumetella carolinensis,24843
+Gray Catbird,West Virginia,1491,Dumetella carolinensis,24843
+Gray Catbird,Wisconsin,1771,Dumetella carolinensis,24843
+Gray Catbird,Wyoming,621,Dumetella carolinensis,24843
+Hermit Thrush,Alaska,887,Catharus guttatus,3155
+Hermit Thrush,Arizona,48,Catharus guttatus,3155
+Hermit Thrush,California,150,Catharus guttatus,3155
+Hermit Thrush,Colorado,119,Catharus guttatus,3155
+Hermit Thrush,Delaware,22,Catharus guttatus,3155
+Hermit Thrush,Idaho,12,Catharus guttatus,3155
+Hermit Thrush,Maine,359,Catharus guttatus,3155
+Hermit Thrush,Maryland,43,Catharus guttatus,3155
+Hermit Thrush,Minnesota,13,Catharus guttatus,3155
+Hermit Thrush,Montana,74,Catharus guttatus,3155
+Hermit Thrush,Nevada,362,Catharus guttatus,3155
+Hermit Thrush,New Hampshire,105,Catharus guttatus,3155
+Hermit Thrush,New York,64,Catharus guttatus,3155
+Hermit Thrush,Oregon,187,Catharus guttatus,3155
+Hermit Thrush,Utah,287,Catharus guttatus,3155
+Hermit Thrush,Vermont,105,Catharus guttatus,3155
+Hermit Thrush,Washington,281,Catharus guttatus,3155
+Hermit Thrush,Wyoming,37,Catharus guttatus,3155
+Hooded Warbler,Alabama,403,Setophaga citrina,4803
+Hooded Warbler,Arkansas,476,Setophaga citrina,4803
+Hooded Warbler,Delaware,27,Setophaga citrina,4803
+Hooded Warbler,Florida,403,Setophaga citrina,4803
+Hooded Warbler,Georgia,618,Setophaga citrina,4803
+Hooded Warbler,Kentucky,141,Setophaga citrina,4803
+Hooded Warbler,Louisiana,60,Setophaga citrina,4803
+Hooded Warbler,Maine,55,Setophaga citrina,4803
+Hooded Warbler,Maryland,55,Setophaga citrina,4803
+Hooded Warbler,Mississippi,555,Setophaga citrina,4803
+Hooded Warbler,Missouri,188,Setophaga citrina,4803
+Hooded Warbler,New York,82,Setophaga citrina,4803
+Hooded Warbler,North Carolina,108,Setophaga citrina,4803
+Hooded Warbler,Pennsylvania,274,Setophaga citrina,4803
+Hooded Warbler,South Carolina,81,Setophaga citrina,4803
+Hooded Warbler,Tennessee,557,Setophaga citrina,4803
+Hooded Warbler,Texas,80,Setophaga citrina,4803
+Hooded Warbler,Virginia,274,Setophaga citrina,4803
+Hooded Warbler,West Virginia,366,Setophaga citrina,4803
+House Wren,Alaska,120,Troglodytes aedon,8192
+House Wren,Arizona,123,Troglodytes aedon,8192
+House Wren,California,1975,Troglodytes aedon,8192
+House Wren,Colorado,306,Troglodytes aedon,8192
+House Wren,Delaware,20,Troglodytes aedon,8192
+House Wren,Idaho,91,Troglodytes aedon,8192
+House Wren,Illinois,508,Troglodytes aedon,8192
+House Wren,Indiana,381,Troglodytes aedon,8192
+House Wren,Iowa,381,Troglodytes aedon,8192
+House Wren,Maine,40,Troglodytes aedon,8192
+House Wren,Maryland,40,Troglodytes aedon,8192
+House Wren,Michigan,95,Troglodytes aedon,8192
+House Wren,Minnesota,349,Troglodytes aedon,8192
+House Wren,Montana,546,Troglodytes aedon,8192
+House Wren,Nevada,598,Troglodytes aedon,8192
+House Wren,New York,60,Troglodytes aedon,8192
+House Wren,North Dakota,516,Troglodytes aedon,8192
+House Wren,Oregon,48,Troglodytes aedon,8192
+House Wren,Pennsylvania,161,Troglodytes aedon,8192
+House Wren,South Dakota,310,Troglodytes aedon,8192
+House Wren,Utah,565,Troglodytes aedon,8192
+House Wren,Virginia,161,Troglodytes aedon,8192
+House Wren,Washington,72,Troglodytes aedon,8192
+House Wren,West Virginia,215,Troglodytes aedon,8192
+House Wren,Wisconsin,238,Troglodytes aedon,8192
+House Wren,Wyoming,273,Troglodytes aedon,8192
+Indigo Bunting,Alabama,140,Passerina cyanea,10595
+Indigo Bunting,Arkansas,588,Passerina cyanea,10595
+Indigo Bunting,Delaware,17,Passerina cyanea,10595
+Indigo Bunting,Florida,140,Passerina cyanea,10595
+Indigo Bunting,Georgia,428,Passerina cyanea,10595
+Indigo Bunting,Illinois,774,Passerina cyanea,10595
+Indigo Bunting,Indiana,581,Passerina cyanea,10595
+Indigo Bunting,Iowa,581,Passerina cyanea,10595
+Indigo Bunting,Kentucky,1034,Passerina cyanea,10595
+Indigo Bunting,Louisiana,207,Passerina cyanea,10595
+Indigo Bunting,Maine,34,Passerina cyanea,10595
+Indigo Bunting,Maryland,34,Passerina cyanea,10595
+Indigo Bunting,Michigan,151,Passerina cyanea,10595
+Indigo Bunting,Minnesota,227,Passerina cyanea,10595
+Indigo Bunting,Mississippi,508,Passerina cyanea,10595
+Indigo Bunting,Missouri,1378,Passerina cyanea,10595
+Indigo Bunting,New York,51,Passerina cyanea,10595
+Indigo Bunting,North Carolina,322,Passerina cyanea,10595
+Indigo Bunting,Pennsylvania,327,Passerina cyanea,10595
+Indigo Bunting,South Carolina,241,Passerina cyanea,10595
+Indigo Bunting,Tennessee,1415,Passerina cyanea,10595
+Indigo Bunting,Texas,276,Passerina cyanea,10595
+Indigo Bunting,Virginia,327,Passerina cyanea,10595
+Indigo Bunting,West Virginia,436,Passerina cyanea,10595
+Indigo Bunting,Wisconsin,378,Passerina cyanea,10595
+Kentucky Warbler,Alabama,154,Geothlypis formosa,5478
+Kentucky Warbler,Arkansas,400,Geothlypis formosa,5478
+Kentucky Warbler,Delaware,18,Geothlypis formosa,5478
+Kentucky Warbler,Florida,154,Geothlypis formosa,5478
+Kentucky Warbler,Georgia,236,Geothlypis formosa,5478
+Kentucky Warbler,Illinois,124,Geothlypis formosa,5478
+Kentucky Warbler,Indiana,93,Geothlypis formosa,5478
+Kentucky Warbler,Iowa,93,Geothlypis formosa,5478
+Kentucky Warbler,Kentucky,858,Geothlypis formosa,5478
+Kentucky Warbler,Louisiana,84,Geothlypis formosa,5478
+Kentucky Warbler,Maine,36,Geothlypis formosa,5478
+Kentucky Warbler,Maryland,36,Geothlypis formosa,5478
+Kentucky Warbler,Mississippi,422,Geothlypis formosa,5478
+Kentucky Warbler,Missouri,1144,Geothlypis formosa,5478
+Kentucky Warbler,New York,54,Geothlypis formosa,5478
+Kentucky Warbler,North Carolina,41,Geothlypis formosa,5478
+Kentucky Warbler,Pennsylvania,64,Geothlypis formosa,5478
+Kentucky Warbler,South Carolina,31,Geothlypis formosa,5478
+Kentucky Warbler,Tennessee,1174,Geothlypis formosa,5478
+Kentucky Warbler,Texas,112,Geothlypis formosa,5478
+Kentucky Warbler,Virginia,64,Geothlypis formosa,5478
+Kentucky Warbler,West Virginia,86,Geothlypis formosa,5478
+Lazuli Bunting,Alaska,249,Passerina amoena,4488
+Lazuli Bunting,Arizona,108,Passerina amoena,4488
+Lazuli Bunting,California,1132,Passerina amoena,4488
+Lazuli Bunting,Colorado,269,Passerina amoena,4488
+Lazuli Bunting,Idaho,68,Passerina amoena,4488
+Lazuli Bunting,Montana,410,Passerina amoena,4488
+Lazuli Bunting,Nevada,1035,Passerina amoena,4488
+Lazuli Bunting,Oregon,100,Passerina amoena,4488
+Lazuli Bunting,Utah,763,Passerina amoena,4488
+Lazuli Bunting,Washington,149,Passerina amoena,4488
+Lazuli Bunting,Wyoming,205,Passerina amoena,4488
+Lincoln's Sparrow,Alaska,567,Melospiza lincolnii,5329
+Lincoln's Sparrow,Arizona,94,Melospiza lincolnii,5329
+Lincoln's Sparrow,California,1684,Melospiza lincolnii,5329
+Lincoln's Sparrow,Colorado,236,Melospiza lincolnii,5329
+Lincoln's Sparrow,Idaho,100,Melospiza lincolnii,5329
+Lincoln's Sparrow,Minnesota,39,Melospiza lincolnii,5329
+Lincoln's Sparrow,Montana,599,Melospiza lincolnii,5329
+Lincoln's Sparrow,Nevada,896,Melospiza lincolnii,5329
+Lincoln's Sparrow,Oregon,129,Melospiza lincolnii,5329
+Lincoln's Sparrow,Utah,493,Melospiza lincolnii,5329
+Lincoln's Sparrow,Washington,193,Melospiza lincolnii,5329
+Lincoln's Sparrow,Wyoming,299,Melospiza lincolnii,5329
+MacGillivray's Warbler,Alaska,1592,Geothlypis tolmiei,13660
+MacGillivray's Warbler,Arizona,211,Geothlypis tolmiei,13660
+MacGillivray's Warbler,California,2491,Geothlypis tolmiei,13660
+MacGillivray's Warbler,Colorado,527,Geothlypis tolmiei,13660
+MacGillivray's Warbler,Idaho,315,Geothlypis tolmiei,13660
+MacGillivray's Warbler,Montana,1889,Geothlypis tolmiei,13660
+MacGillivray's Warbler,Nevada,2489,Geothlypis tolmiei,13660
+MacGillivray's Warbler,Oregon,637,Geothlypis tolmiei,13660
+MacGillivray's Warbler,Utah,1608,Geothlypis tolmiei,13660
+MacGillivray's Warbler,Washington,956,Geothlypis tolmiei,13660
+MacGillivray's Warbler,Wyoming,945,Geothlypis tolmiei,13660
+Northern Cardinal,Alabama,583,Cardinalis cardinalis,14525
+Northern Cardinal,Arizona,58,Cardinalis cardinalis,14525
+Northern Cardinal,Arkansas,710,Cardinalis cardinalis,14525
+Northern Cardinal,Delaware,123,Cardinalis cardinalis,14525
+Northern Cardinal,Florida,583,Cardinalis cardinalis,14525
+Northern Cardinal,Georgia,1243,Cardinalis cardinalis,14525
+Northern Cardinal,Illinois,725,Cardinalis cardinalis,14525
+Northern Cardinal,Indiana,544,Cardinalis cardinalis,14525
+Northern Cardinal,Iowa,544,Cardinalis cardinalis,14525
+Northern Cardinal,Kansas,83,Cardinalis cardinalis,14525
+Northern Cardinal,Kentucky,656,Cardinalis cardinalis,14525
+Northern Cardinal,Louisiana,293,Cardinalis cardinalis,14525
+Northern Cardinal,Maine,247,Cardinalis cardinalis,14525
+Northern Cardinal,Maryland,247,Cardinalis cardinalis,14525
+Northern Cardinal,Michigan,144,Cardinalis cardinalis,14525
+Northern Cardinal,Minnesota,217,Cardinalis cardinalis,14525
+Northern Cardinal,Mississippi,700,Cardinalis cardinalis,14525
+Northern Cardinal,Missouri,875,Cardinalis cardinalis,14525
+Northern Cardinal,New York,370,Cardinalis cardinalis,14525
+Northern Cardinal,North Carolina,621,Cardinalis cardinalis,14525
+Northern Cardinal,Oklahoma,50,Cardinalis cardinalis,14525
+Northern Cardinal,Pennsylvania,332,Cardinalis cardinalis,14525
+Northern Cardinal,South Carolina,466,Cardinalis cardinalis,14525
+Northern Cardinal,Tennessee,1181,Cardinalis cardinalis,14525
+Northern Cardinal,Texas,1795,Cardinalis cardinalis,14525
+Northern Cardinal,Virginia,332,Cardinalis cardinalis,14525
+Northern Cardinal,West Virginia,442,Cardinalis cardinalis,14525
+Northern Cardinal,Wisconsin,361,Cardinalis cardinalis,14525
+Orange-crowned Warbler,Alaska,2092,Leiothlypis celata,7706
+Orange-crowned Warbler,Arizona,56,Leiothlypis celata,7706
+Orange-crowned Warbler,California,3098,Leiothlypis celata,7706
+Orange-crowned Warbler,Colorado,140,Leiothlypis celata,7706
+Orange-crowned Warbler,Idaho,89,Leiothlypis celata,7706
+Orange-crowned Warbler,Montana,532,Leiothlypis celata,7706
+Orange-crowned Warbler,Nevada,103,Leiothlypis celata,7706
+Orange-crowned Warbler,Oregon,471,Leiothlypis celata,7706
+Orange-crowned Warbler,Utah,153,Leiothlypis celata,7706
+Orange-crowned Warbler,Washington,706,Leiothlypis celata,7706
+Orange-crowned Warbler,Wyoming,266,Leiothlypis celata,7706
+Ovenbird,Alabama,238,Seiurus aurocapilla,7769
+Ovenbird,Delaware,176,Seiurus aurocapilla,7769
+Ovenbird,Florida,238,Seiurus aurocapilla,7769
+Ovenbird,Georgia,600,Seiurus aurocapilla,7769
+Ovenbird,Illinois,44,Seiurus aurocapilla,7769
+Ovenbird,Indiana,33,Seiurus aurocapilla,7769
+Ovenbird,Iowa,33,Seiurus aurocapilla,7769
+Ovenbird,Kentucky,377,Seiurus aurocapilla,7769
+Ovenbird,Maine,788,Seiurus aurocapilla,7769
+Ovenbird,Maryland,352,Seiurus aurocapilla,7769
+Ovenbird,Michigan,237,Seiurus aurocapilla,7769
+Ovenbird,Minnesota,451,Seiurus aurocapilla,7769
+Ovenbird,Missouri,503,Seiurus aurocapilla,7769
+Ovenbird,New Hampshire,145,Seiurus aurocapilla,7769
+Ovenbird,New York,528,Seiurus aurocapilla,7769
+Ovenbird,North Carolina,376,Seiurus aurocapilla,7769
+Ovenbird,Pennsylvania,427,Seiurus aurocapilla,7769
+Ovenbird,South Carolina,282,Seiurus aurocapilla,7769
+Ovenbird,Tennessee,377,Seiurus aurocapilla,7769
+Ovenbird,Vermont,145,Seiurus aurocapilla,7769
+Ovenbird,Virginia,427,Seiurus aurocapilla,7769
+Ovenbird,West Virginia,570,Seiurus aurocapilla,7769
+Ovenbird,Wisconsin,422,Seiurus aurocapilla,7769
+Painted Bunting,Alabama,37,Passerina ciris,3198
+Painted Bunting,Arkansas,70,Passerina ciris,3198
+Painted Bunting,Florida,37,Passerina ciris,3198
+Painted Bunting,Georgia,49,Passerina ciris,3198
+Painted Bunting,Illinois,54,Passerina ciris,3198
+Painted Bunting,Indiana,41,Passerina ciris,3198
+Painted Bunting,Iowa,41,Passerina ciris,3198
+Painted Bunting,Kansas,244,Passerina ciris,3198
+Painted Bunting,Louisiana,103,Passerina ciris,3198
+Painted Bunting,Mississippi,51,Passerina ciris,3198
+Painted Bunting,Oklahoma,146,Passerina ciris,3198
+Painted Bunting,Tennessee,38,Passerina ciris,3198
+Painted Bunting,Texas,2287,Passerina ciris,3198
+Prothonotary Warbler,Alabama,199,Protonotaria citrea,2704
+Prothonotary Warbler,Arkansas,504,Protonotaria citrea,2704
+Prothonotary Warbler,Delaware,12,Protonotaria citrea,2704
+Prothonotary Warbler,Florida,199,Protonotaria citrea,2704
+Prothonotary Warbler,Georgia,314,Protonotaria citrea,2704
+Prothonotary Warbler,Illinois,41,Protonotaria citrea,2704
+Prothonotary Warbler,Indiana,31,Protonotaria citrea,2704
+Prothonotary Warbler,Iowa,31,Protonotaria citrea,2704
+Prothonotary Warbler,Louisiana,58,Protonotaria citrea,2704
+Prothonotary Warbler,Maine,24,Protonotaria citrea,2704
+Prothonotary Warbler,Maryland,24,Protonotaria citrea,2704
+Prothonotary Warbler,Mississippi,594,Protonotaria citrea,2704
+Prothonotary Warbler,New York,36,Protonotaria citrea,2704
+Prothonotary Warbler,North Carolina,65,Protonotaria citrea,2704
+Prothonotary Warbler,South Carolina,49,Protonotaria citrea,2704
+Prothonotary Warbler,Tennessee,446,Protonotaria citrea,2704
+Prothonotary Warbler,Texas,77,Protonotaria citrea,2704
+Purple Finch,Alaska,1236,Haemorhous purpureus,7459
+Purple Finch,California,2821,Haemorhous purpureus,7459
+Purple Finch,Michigan,27,Haemorhous purpureus,7459
+Purple Finch,Minnesota,44,Haemorhous purpureus,7459
+Purple Finch,Nevada,1309,Haemorhous purpureus,7459
+Purple Finch,Oregon,494,Haemorhous purpureus,7459
+Purple Finch,Utah,749,Haemorhous purpureus,7459
+Purple Finch,Washington,741,Haemorhous purpureus,7459
+Purple Finch,Wisconsin,38,Haemorhous purpureus,7459
+Red-eyed Vireo,Alabama,140,Vireo olivaceus,9130
+Red-eyed Vireo,Arkansas,125,Vireo olivaceus,9130
+Red-eyed Vireo,Delaware,245,Vireo olivaceus,9130
+Red-eyed Vireo,Florida,140,Vireo olivaceus,9130
+Red-eyed Vireo,Georgia,409,Vireo olivaceus,9130
+Red-eyed Vireo,Idaho,27,Vireo olivaceus,9130
+Red-eyed Vireo,Illinois,184,Vireo olivaceus,9130
+Red-eyed Vireo,Indiana,138,Vireo olivaceus,9130
+Red-eyed Vireo,Iowa,138,Vireo olivaceus,9130
+Red-eyed Vireo,Kentucky,588,Vireo olivaceus,9130
+Red-eyed Vireo,Maine,772,Vireo olivaceus,9130
+Red-eyed Vireo,Maryland,490,Vireo olivaceus,9130
+Red-eyed Vireo,Michigan,195,Vireo olivaceus,9130
+Red-eyed Vireo,Minnesota,388,Vireo olivaceus,9130
+Red-eyed Vireo,Mississippi,167,Vireo olivaceus,9130
+Red-eyed Vireo,Missouri,784,Vireo olivaceus,9130
+Red-eyed Vireo,Montana,161,Vireo olivaceus,9130
+Red-eyed Vireo,New Hampshire,94,Vireo olivaceus,9130
+Red-eyed Vireo,New York,734,Vireo olivaceus,9130
+Red-eyed Vireo,North Carolina,296,Vireo olivaceus,9130
+Red-eyed Vireo,North Dakota,112,Vireo olivaceus,9130
+Red-eyed Vireo,Pennsylvania,391,Vireo olivaceus,9130
+Red-eyed Vireo,South Carolina,222,Vireo olivaceus,9130
+Red-eyed Vireo,South Dakota,67,Vireo olivaceus,9130
+Red-eyed Vireo,Tennessee,713,Vireo olivaceus,9130
+Red-eyed Vireo,Vermont,94,Vireo olivaceus,9130
+Red-eyed Vireo,Virginia,391,Vireo olivaceus,9130
+Red-eyed Vireo,West Virginia,521,Vireo olivaceus,9130
+Red-eyed Vireo,Wisconsin,324,Vireo olivaceus,9130
+Red-eyed Vireo,Wyoming,80,Vireo olivaceus,9130
+Song Sparrow,Alaska,2572,Melospiza melodia,25934
+Song Sparrow,Arizona,371,Melospiza melodia,25934
+Song Sparrow,California,7565,Melospiza melodia,25934
+Song Sparrow,Colorado,590,Melospiza melodia,25934
+Song Sparrow,Delaware,39,Melospiza melodia,25934
+Song Sparrow,Georgia,31,Melospiza melodia,25934
+Song Sparrow,Idaho,244,Melospiza melodia,25934
+Song Sparrow,Illinois,358,Melospiza melodia,25934
+Song Sparrow,Indiana,268,Melospiza melodia,25934
+Song Sparrow,Iowa,268,Melospiza melodia,25934
+Song Sparrow,Maine,313,Melospiza melodia,25934
+Song Sparrow,Maryland,78,Melospiza melodia,25934
+Song Sparrow,Michigan,438,Melospiza melodia,25934
+Song Sparrow,Minnesota,743,Melospiza melodia,25934
+Song Sparrow,Montana,1462,Melospiza melodia,25934
+Song Sparrow,Nevada,2527,Melospiza melodia,25934
+Song Sparrow,New Hampshire,78,Melospiza melodia,25934
+Song Sparrow,New York,116,Melospiza melodia,25934
+Song Sparrow,North Carolina,41,Melospiza melodia,25934
+Song Sparrow,North Dakota,194,Melospiza melodia,25934
+Song Sparrow,Oregon,1029,Melospiza melodia,25934
+Song Sparrow,Pennsylvania,402,Melospiza melodia,25934
+Song Sparrow,South Carolina,31,Melospiza melodia,25934
+Song Sparrow,South Dakota,117,Melospiza melodia,25934
+Song Sparrow,Utah,1772,Melospiza melodia,25934
+Song Sparrow,Vermont,78,Melospiza melodia,25934
+Song Sparrow,Virginia,402,Melospiza melodia,25934
+Song Sparrow,Washington,1544,Melospiza melodia,25934
+Song Sparrow,West Virginia,536,Melospiza melodia,25934
+Song Sparrow,Wisconsin,996,Melospiza melodia,25934
+Song Sparrow,Wyoming,731,Melospiza melodia,25934
+Spotted Towhee,Alaska,762,Pipilo maculatus,6399
+Spotted Towhee,Arizona,161,Pipilo maculatus,6399
+Spotted Towhee,California,3095,Pipilo maculatus,6399
+Spotted Towhee,Colorado,402,Pipilo maculatus,6399
+Spotted Towhee,Idaho,26,Pipilo maculatus,6399
+Spotted Towhee,Montana,158,Pipilo maculatus,6399
+Spotted Towhee,Nevada,448,Pipilo maculatus,6399
+Spotted Towhee,Oregon,305,Pipilo maculatus,6399
+Spotted Towhee,Utah,506,Pipilo maculatus,6399
+Spotted Towhee,Washington,457,Pipilo maculatus,6399
+Spotted Towhee,Wyoming,79,Pipilo maculatus,6399
+Summer Tanager,Alabama,96,Piranga rubra,1156
+Summer Tanager,Arizona,143,Piranga rubra,1156
+Summer Tanager,Arkansas,117,Piranga rubra,1156
+Summer Tanager,Florida,96,Piranga rubra,1156
+Summer Tanager,Georgia,128,Piranga rubra,1156
+Summer Tanager,Kentucky,91,Piranga rubra,1156
+Summer Tanager,Mississippi,156,Piranga rubra,1156
+Summer Tanager,Missouri,121,Piranga rubra,1156
+Summer Tanager,Tennessee,208,Piranga rubra,1156
+Swainson's Thrush,Alaska,5007,Catharus ustulatus,21386
+Swainson's Thrush,Arizona,59,Catharus ustulatus,21386
+Swainson's Thrush,California,5627,Catharus ustulatus,21386
+Swainson's Thrush,Colorado,148,Catharus ustulatus,21386
+Swainson's Thrush,Idaho,343,Catharus ustulatus,21386
+Swainson's Thrush,Maine,191,Catharus ustulatus,21386
+Swainson's Thrush,Michigan,68,Catharus ustulatus,21386
+Swainson's Thrush,Minnesota,234,Catharus ustulatus,21386
+Swainson's Thrush,Montana,2057,Catharus ustulatus,21386
+Swainson's Thrush,Nevada,1067,Catharus ustulatus,21386
+Swainson's Thrush,New Hampshire,64,Catharus ustulatus,21386
+Swainson's Thrush,North Dakota,103,Catharus ustulatus,21386
+Swainson's Thrush,Oregon,1747,Catharus ustulatus,21386
+Swainson's Thrush,South Dakota,62,Catharus ustulatus,21386
+Swainson's Thrush,Utah,800,Catharus ustulatus,21386
+Swainson's Thrush,Vermont,64,Catharus ustulatus,21386
+Swainson's Thrush,Washington,2621,Catharus ustulatus,21386
+Swainson's Thrush,Wisconsin,96,Catharus ustulatus,21386
+Swainson's Thrush,Wyoming,1028,Catharus ustulatus,21386
+Traill's Flycatcher,Alaska,1060,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Arizona,61,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,California,118,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Colorado,100,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Idaho,177,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Illinois,241,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Indiana,181,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Iowa,181,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Maine,344,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Michigan,225,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Minnesota,446,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Montana,1063,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Nevada,612,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,New Hampshire,115,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,North Dakota,84,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Oregon,265,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Pennsylvania,104,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,South Dakota,50,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Utah,448,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Vermont,115,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Virginia,104,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Washington,397,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,West Virginia,138,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Wisconsin,439,Empidonax alnorum/traillii,7599
+Traill's Flycatcher,Wyoming,531,Empidonax alnorum/traillii,7599
+Veery,Delaware,111,Catharus fuscescens,4603
+Veery,Georgia,126,Catharus fuscescens,4603
+Veery,Idaho,40,Catharus fuscescens,4603
+Veery,Maine,665,Catharus fuscescens,4603
+Veery,Maryland,222,Catharus fuscescens,4603
+Veery,Michigan,196,Catharus fuscescens,4603
+Veery,Minnesota,334,Catharus fuscescens,4603
+Veery,Montana,237,Catharus fuscescens,4603
+Veery,New Hampshire,148,Catharus fuscescens,4603
+Veery,New York,333,Catharus fuscescens,4603
+Veery,North Carolina,168,Catharus fuscescens,4603
+Veery,North Dakota,64,Catharus fuscescens,4603
+Veery,Pennsylvania,356,Catharus fuscescens,4603
+Veery,South Carolina,126,Catharus fuscescens,4603
+Veery,South Dakota,39,Catharus fuscescens,4603
+Veery,Vermont,148,Catharus fuscescens,4603
+Veery,Virginia,356,Catharus fuscescens,4603
+Veery,West Virginia,475,Catharus fuscescens,4603
+Veery,Wisconsin,341,Catharus fuscescens,4603
+Veery,Wyoming,118,Catharus fuscescens,4603
+Warbling Vireo,Alaska,590,Vireo gilvus,11433
+Warbling Vireo,Arizona,280,Vireo gilvus,11433
+Warbling Vireo,California,3539,Vireo gilvus,11433
+Warbling Vireo,Colorado,602,Vireo gilvus,11433
+Warbling Vireo,Idaho,177,Vireo gilvus,11433
+Warbling Vireo,Illinois,42,Vireo gilvus,11433
+Warbling Vireo,Indiana,32,Vireo gilvus,11433
+Warbling Vireo,Iowa,32,Vireo gilvus,11433
+Warbling Vireo,Michigan,20,Vireo gilvus,11433
+Warbling Vireo,Minnesota,75,Vireo gilvus,11433
+Warbling Vireo,Montana,1060,Vireo gilvus,11433
+Warbling Vireo,Nevada,2156,Vireo gilvus,11433
+Warbling Vireo,North Dakota,110,Vireo gilvus,11433
+Warbling Vireo,Oregon,236,Vireo gilvus,11433
+Warbling Vireo,South Dakota,66,Vireo gilvus,11433
+Warbling Vireo,Utah,1481,Vireo gilvus,11433
+Warbling Vireo,Washington,354,Vireo gilvus,11433
+Warbling Vireo,Wisconsin,51,Vireo gilvus,11433
+Warbling Vireo,Wyoming,530,Vireo gilvus,11433
+Western Flycatcher,Alaska,1380,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,Arizona,115,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,California,2708,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,Colorado,86,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,Idaho,13,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,Montana,77,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,Nevada,469,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,Oregon,552,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,Utah,329,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,Washington,828,Empidonax difficilis/occidentalis,6595
+Western Flycatcher,Wyoming,38,Empidonax difficilis/occidentalis,6595
+Western Tanager,Alaska,446,Piranga ludoviciana,5886
+Western Tanager,Arizona,216,Piranga ludoviciana,5886
+Western Tanager,California,737,Piranga ludoviciana,5886
+Western Tanager,Colorado,272,Piranga ludoviciana,5886
+Western Tanager,Idaho,129,Piranga ludoviciana,5886
+Western Tanager,Montana,772,Piranga ludoviciana,5886
+Western Tanager,Nevada,1464,Piranga ludoviciana,5886
+Western Tanager,Oregon,179,Piranga ludoviciana,5886
+Western Tanager,Utah,1017,Piranga ludoviciana,5886
+Western Tanager,Washington,268,Piranga ludoviciana,5886
+Western Tanager,Wyoming,386,Piranga ludoviciana,5886
+Western Wood-Pewee,Alaska,228,Contopus sordidulus,4085
+Western Wood-Pewee,Arizona,96,Contopus sordidulus,4085
+Western Wood-Pewee,California,1067,Contopus sordidulus,4085
+Western Wood-Pewee,Colorado,170,Contopus sordidulus,4085
+Western Wood-Pewee,Idaho,52,Contopus sordidulus,4085
+Western Wood-Pewee,Minnesota,31,Contopus sordidulus,4085
+Western Wood-Pewee,Montana,313,Contopus sordidulus,4085
+Western Wood-Pewee,Nevada,972,Contopus sordidulus,4085
+Western Wood-Pewee,North Dakota,76,Contopus sordidulus,4085
+Western Wood-Pewee,Oregon,91,Contopus sordidulus,4085
+Western Wood-Pewee,South Dakota,46,Contopus sordidulus,4085
+Western Wood-Pewee,Utah,651,Contopus sordidulus,4085
+Western Wood-Pewee,Washington,136,Contopus sordidulus,4085
+Western Wood-Pewee,Wyoming,156,Contopus sordidulus,4085
+White-eyed Vireo,Alabama,326,Vireo griseus,7585
+White-eyed Vireo,Arkansas,762,Vireo griseus,7585
+White-eyed Vireo,Delaware,30,Vireo griseus,7585
+White-eyed Vireo,Florida,326,Vireo griseus,7585
+White-eyed Vireo,Georgia,523,Vireo griseus,7585
+White-eyed Vireo,Illinois,118,Vireo griseus,7585
+White-eyed Vireo,Indiana,89,Vireo griseus,7585
+White-eyed Vireo,Iowa,89,Vireo griseus,7585
+White-eyed Vireo,Kentucky,395,Vireo griseus,7585
+White-eyed Vireo,Louisiana,145,Vireo griseus,7585
+White-eyed Vireo,Maine,60,Vireo griseus,7585
+White-eyed Vireo,Maryland,60,Vireo griseus,7585
+White-eyed Vireo,Mississippi,898,Vireo griseus,7585
+White-eyed Vireo,Missouri,527,Vireo griseus,7585
+White-eyed Vireo,New York,91,Vireo griseus,7585
+White-eyed Vireo,North Carolina,117,Vireo griseus,7585
+White-eyed Vireo,Pennsylvania,112,Vireo griseus,7585
+White-eyed Vireo,South Carolina,88,Vireo griseus,7585
+White-eyed Vireo,Tennessee,1069,Vireo griseus,7585
+White-eyed Vireo,Texas,1498,Vireo griseus,7585
+White-eyed Vireo,Virginia,112,Vireo griseus,7585
+White-eyed Vireo,West Virginia,150,Vireo griseus,7585
+White-throated Sparrow,Maine,436,Zonotrichia albicollis,1484
+White-throated Sparrow,Michigan,147,Zonotrichia albicollis,1484
+White-throated Sparrow,Minnesota,406,Zonotrichia albicollis,1484
+White-throated Sparrow,New Hampshire,145,Zonotrichia albicollis,1484
+White-throated Sparrow,Vermont,145,Zonotrichia albicollis,1484
+White-throated Sparrow,Wisconsin,205,Zonotrichia albicollis,1484
+Wilson's Warbler,Alaska,5047,Cardellina pusilla,19635
+Wilson's Warbler,Arizona,66,Cardellina pusilla,19635
+Wilson's Warbler,California,8053,Cardellina pusilla,19635
+Wilson's Warbler,Colorado,164,Cardellina pusilla,19635
+Wilson's Warbler,Idaho,105,Cardellina pusilla,19635
+Wilson's Warbler,Minnesota,16,Cardellina pusilla,19635
+Wilson's Warbler,Montana,628,Cardellina pusilla,19635
+Wilson's Warbler,Nevada,1785,Cardellina pusilla,19635
+Wilson's Warbler,Oregon,993,Cardellina pusilla,19635
+Wilson's Warbler,Utah,974,Cardellina pusilla,19635
+Wilson's Warbler,Washington,1490,Cardellina pusilla,19635
+Wilson's Warbler,Wyoming,314,Cardellina pusilla,19635
+Wood Thrush,Alabama,255,Hylocichla mustelina,10114
+Wood Thrush,Arkansas,79,Hylocichla mustelina,10114
+Wood Thrush,Delaware,267,Hylocichla mustelina,10114
+Wood Thrush,Florida,255,Hylocichla mustelina,10114
+Wood Thrush,Georgia,856,Hylocichla mustelina,10114
+Wood Thrush,Illinois,139,Hylocichla mustelina,10114
+Wood Thrush,Indiana,104,Hylocichla mustelina,10114
+Wood Thrush,Iowa,104,Hylocichla mustelina,10114
+Wood Thrush,Kentucky,886,Hylocichla mustelina,10114
+Wood Thrush,Maine,645,Hylocichla mustelina,10114
+Wood Thrush,Maryland,535,Hylocichla mustelina,10114
+Wood Thrush,Michigan,64,Hylocichla mustelina,10114
+Wood Thrush,Minnesota,96,Hylocichla mustelina,10114
+Wood Thrush,Mississippi,106,Hylocichla mustelina,10114
+Wood Thrush,Missouri,1182,Hylocichla mustelina,10114
+Wood Thrush,New Hampshire,37,Hylocichla mustelina,10114
+Wood Thrush,New York,802,Hylocichla mustelina,10114
+Wood Thrush,North Carolina,688,Hylocichla mustelina,10114
+Wood Thrush,Pennsylvania,401,Hylocichla mustelina,10114
+Wood Thrush,South Carolina,516,Hylocichla mustelina,10114
+Wood Thrush,Tennessee,965,Hylocichla mustelina,10114
+Wood Thrush,Vermont,37,Hylocichla mustelina,10114
+Wood Thrush,Virginia,401,Hylocichla mustelina,10114
+Wood Thrush,West Virginia,534,Hylocichla mustelina,10114
+Wood Thrush,Wisconsin,160,Hylocichla mustelina,10114
+Yellow Warbler,Alaska,1827,Setophaga petechia,23257
+Yellow Warbler,Arizona,979,Setophaga petechia,23257
+Yellow Warbler,California,2672,Setophaga petechia,23257
+Yellow Warbler,Colorado,2056,Setophaga petechia,23257
+Yellow Warbler,Delaware,42,Setophaga petechia,23257
+Yellow Warbler,Idaho,458,Setophaga petechia,23257
+Yellow Warbler,Illinois,466,Setophaga petechia,23257
+Yellow Warbler,Indiana,350,Setophaga petechia,23257
+Yellow Warbler,Iowa,350,Setophaga petechia,23257
+Yellow Warbler,Maine,201,Setophaga petechia,23257
+Yellow Warbler,Maryland,84,Setophaga petechia,23257
+Yellow Warbler,Michigan,291,Setophaga petechia,23257
+Yellow Warbler,Minnesota,852,Setophaga petechia,23257
+Yellow Warbler,Montana,2746,Setophaga petechia,23257
+Yellow Warbler,Nevada,2137,Setophaga petechia,23257
+Yellow Warbler,New Hampshire,39,Setophaga petechia,23257
+Yellow Warbler,New York,126,Setophaga petechia,23257
+Yellow Warbler,North Dakota,986,Setophaga petechia,23257
+Yellow Warbler,Oregon,320,Setophaga petechia,23257
+Yellow Warbler,Pennsylvania,176,Setophaga petechia,23257
+Yellow Warbler,South Dakota,591,Setophaga petechia,23257
+Yellow Warbler,Utah,2508,Setophaga petechia,23257
+Yellow Warbler,Vermont,39,Setophaga petechia,23257
+Yellow Warbler,Virginia,176,Setophaga petechia,23257
+Yellow Warbler,Washington,479,Setophaga petechia,23257
+Yellow Warbler,West Virginia,234,Setophaga petechia,23257
+Yellow Warbler,Wisconsin,699,Setophaga petechia,23257
+Yellow Warbler,Wyoming,1373,Setophaga petechia,23257
+Yellow-breasted Chat,Alabama,38,Icteria virens,8613
+Yellow-breasted Chat,Alaska,590,Icteria virens,8613
+Yellow-breasted Chat,Arizona,636,Icteria virens,8613
+Yellow-breasted Chat,Arkansas,456,Icteria virens,8613
+Yellow-breasted Chat,California,1044,Icteria virens,8613
+Yellow-breasted Chat,Colorado,242,Icteria virens,8613
+Yellow-breasted Chat,Florida,38,Icteria virens,8613
+Yellow-breasted Chat,Georgia,167,Icteria virens,8613
+Yellow-breasted Chat,Idaho,22,Icteria virens,8613
+Yellow-breasted Chat,Illinois,167,Icteria virens,8613
+Yellow-breasted Chat,Indiana,125,Icteria virens,8613
+Yellow-breasted Chat,Iowa,125,Icteria virens,8613
+Yellow-breasted Chat,Kentucky,495,Icteria virens,8613
+Yellow-breasted Chat,Louisiana,74,Icteria virens,8613
+Yellow-breasted Chat,Mississippi,509,Icteria virens,8613
+Yellow-breasted Chat,Missouri,660,Icteria virens,8613
+Yellow-breasted Chat,Montana,134,Icteria virens,8613
+Yellow-breasted Chat,Nevada,209,Icteria virens,8613
+Yellow-breasted Chat,North Carolina,156,Icteria virens,8613
+Yellow-breasted Chat,Oregon,236,Icteria virens,8613
+Yellow-breasted Chat,Pennsylvania,108,Icteria virens,8613
+Yellow-breasted Chat,South Carolina,117,Icteria virens,8613
+Yellow-breasted Chat,Tennessee,877,Icteria virens,8613
+Yellow-breasted Chat,Texas,431,Icteria virens,8613
+Yellow-breasted Chat,Utah,284,Icteria virens,8613
+Yellow-breasted Chat,Virginia,108,Icteria virens,8613
+Yellow-breasted Chat,Washington,354,Icteria virens,8613
+Yellow-breasted Chat,West Virginia,144,Icteria virens,8613
+Yellow-breasted Chat,Wyoming,67,Icteria virens,8613
+Yellow-rumped Warbler,Alaska,994,Setophaga coronata,8696
+Yellow-rumped Warbler,Arizona,70,Setophaga coronata,8696
+Yellow-rumped Warbler,California,2383,Setophaga coronata,8696
+Yellow-rumped Warbler,Colorado,176,Setophaga coronata,8696
+Yellow-rumped Warbler,Idaho,117,Setophaga coronata,8696
+Yellow-rumped Warbler,Maine,256,Setophaga coronata,8696
+Yellow-rumped Warbler,Minnesota,51,Setophaga coronata,8696
+Yellow-rumped Warbler,Montana,700,Setophaga coronata,8696
+Yellow-rumped Warbler,Nevada,1985,Setophaga coronata,8696
+Yellow-rumped Warbler,New Hampshire,85,Setophaga coronata,8696
+Yellow-rumped Warbler,Oregon,154,Setophaga coronata,8696
+Yellow-rumped Warbler,Utah,1058,Setophaga coronata,8696
+Yellow-rumped Warbler,Vermont,85,Setophaga coronata,8696
+Yellow-rumped Warbler,Washington,232,Setophaga coronata,8696
+Yellow-rumped Warbler,Wyoming,350,Setophaga coronata,8696

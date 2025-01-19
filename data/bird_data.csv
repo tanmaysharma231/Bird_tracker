@@ -1,0 +1,51 @@
+BirdName,MigrationPattern,LifeSpan,WingLength,InterestingFacts
+Acadian Flycatcher,"Migratory (Breeds in eastern U.S., winters in Central/South America)",10,7.5-9.2,Prefers mature deciduous forests.
+American Goldfinch,Partial Migratory (Northern populations migrate),10,7.0-8.9,Changes plumage color to a duller hue in winter.
+American Redstart,"Migratory (Breeds in North America, winters in the Caribbean/Central America)",10,6.7-7.8,"Known for ""fanning"" wings to flush insects."
+American Robin,Partial Migratory (Northern populations move south in winter),14,12.0-14.5,One of the first birds to sing at dawn.
+Black-capped Chickadee,Non-migratory,12,6.0-7.0,Has excellent memory for hiding food.
+Bewick's Wren,Partial Migratory (Western populations migrate),8,5.7-6.7,"Thrives in brushy habitats, known for its long tail."
+Brown-headed Cowbird,"Migratory (Breeds in North America, winters in Mexico)",16,9.5-11.0,"Practices brood parasitism, laying eggs in other birds' nests."
+Black-headed Grosbeak,"Migratory (Breeds in western U.S., winters in Mexico)",10,9.0-11.5,"Sweet, melodious song similar to a robin."
+Bullock's Oriole,"Migratory (Breeds in western U.S., winters in Central America)",7,9.5-11.0,Builds intricate hanging nests.
+Bushtit,Non-migratory,8,5.5-6.0,"Often seen in flocks, hangs upside down to feed."
+Carolina Wren,Non-migratory,10,5.7-7.0,Known for its loud and varied songs.
+Common Yellowthroat,"Migratory (Breeds in North America, winters in Central America)",11,5.7-7.3,"Famous for its ""witchety-witchety"" song."
+Dark-eyed Junco,"Migratory (Breeds in North America, winters in U.S.)",11,7.5-9.2,Found in a wide variety of habitats from forests to gardens.
+Downy Woodpecker,Non-migratory,11,9.5-11.0,Smallest woodpecker in North America.
+Dusky Flycatcher,"Migratory (Breeds in western North America, winters in Mexico)",9,6.8-7.7,Favors open woodlands and shrubby areas.
+Eastern Towhee,Partial Migratory (Northern populations migrate south),12,7.5-9.2,"Male has striking black, white, and rufous plumage."
+Field Sparrow,"Migratory (Breeds in North America, winters in southern U.S.)",9,6.3-7.5,"Known for its soft, bouncing ball song."
+Gray Catbird,"Migratory (Breeds in North America, winters in Central America)",17,8.5-9.8,"Named for its cat-like ""mew"" call."
+Hermit Thrush,"Migratory (Breeds in North America, winters in southern U.S.)",12,9.5-11.0,"Renowned for its ethereal, flute-like song."
+Hooded Warbler,"Migratory (Breeds in eastern U.S., winters in Central America)",9,6.5-7.9,Known for its distinctive black hood.
+House Wren,Partial Migratory (Northern populations migrate south),9,6.2-7.5,"Very territorial, often destroys other birds' nests."
+Indigo Bunting,"Migratory (Breeds in North America, winters in Central America)",10,7.1-8.4,Males are vivid blue in breeding season.
+Kentucky Warbler,"Migratory (Breeds in southeastern U.S., winters in Central America)",9,6.5-7.5,"Prefers dense, moist forests."
+Lazuli Bunting,"Migratory (Breeds in western U.S., winters in Mexico)",9,7.4-8.6,Similar to the Indigo Bunting but with more orange and white.
+Lincoln's Sparrow,"Migratory (Breeds in Canada/Alaska, winters in southern U.S./Mexico)",8,6.8-7.7,Very shy and elusive.
+MacGillivray's Warbler,"Migratory (Breeds in western North America, winters in Mexico/Central America)",10,6.7-7.6,Prefers dense underbrush near water.
+Northern Cardinal,Non-migratory,15,9.0-12.5,Known for the bright red coloration of males.
+Orange-crowned Warbler,"Migratory (Breeds in North America, winters in Central America)",10,6.2-7.3,Named for its rarely visible orange crown.
+Ovenbird,"Migratory (Breeds in North America, winters in Central America)",11,7.9-9.4,"Known for its ""teacher-teacher"" call and domed nests."
+Painted Bunting,"Migratory (Breeds in southeastern U.S., winters in Central America)",11,7.5-8.5,"Stunningly colorful; males are blue, green, and red."
+Prothonotary Warbler,"Migratory (Breeds in southeastern U.S., winters in Central America)",8,6.5-7.5,"Nests in cavities near water, unusual for a warbler."
+Purple Finch,Partial Migratory (Northern populations migrate south),12,8.5-9.8,Looks similar to the House Finch but with more raspberry color.
+Red-eyed Vireo,"Migratory (Breeds in North America, winters in South America)",10,8.3-9.8,"Can sing more than 20,000 songs per day."
+Song Sparrow,Partial Migratory (Some populations migrate),11,6.5-8.0,One of the most widespread songbirds in North America.
+Spotted Towhee,Partial Migratory (Some populations migrate),11,8.0-9.9,"Has striking red eyes and bold, spotted plumage."
+Summer Tanager,"Migratory (Breeds in North America, winters in Central/South America)",5,9.5-11.5,Males are bright red; specializes in eating bees and wasps.
+Swainson's Thrush,"Migratory (Breeds in North America, winters in South America)",10,8.7-10.5,Famous for its flute-like song.
+Traill's Flycatcher,"Migratory (Breeds in North America, winters in Central America)",8,7.0-8.5,Includes both Willow and Alder Flycatchers.
+Veery,"Migratory (Breeds in North America, winters in South America)",10,8.5-9.8,"Sings a unique, downward-spiraling song."
+Warbling Vireo,"Migratory (Breeds in North America, winters in Central/South America)",10,7.2-9.0,Sings almost constantly during breeding season.
+Western Flycatcher,"Migratory (Breeds in western U.S., winters in Mexico)",8,6.8-7.8,Previously grouped as Pacific-slope and Cordilleran Flycatchers.
+Western Tanager,"Migratory (Breeds in western North America, winters in Central America)",11,9.5-11.2,Males have brilliant yellow bodies with red heads.
+White-eyed Vireo,"Migratory (Breeds in North America, winters in Central America)",10,6.5-7.9,Known for its striking white eyes and aggressive behavior.
+Western Wood-Pewee,"Migratory (Breeds in North America, winters in South America)",8,8.0-9.0,Has a raspy call often heard in open woodlands.
+Wilson's Warbler,"Migratory (Breeds in North America, winters in Central America)",7,5.5-7.5,Recognized by the black cap on males.
+Wood Thrush,"Migratory (Breeds in North America, winters in Central America)",8,10.0-11.5,"Renowned for its beautiful, fluting song."
+White-throated Sparrow,"Partial Migratory (Breeds in Canada, winters in U.S.)",12,7.0-9.1,Has a distinct white throat patch and sweet song.
+Yellow-breasted Chat,"Migratory (Breeds in North America, winters in Central America)",10,7.2-8.7,Unusual warbler with a varied song and bright yellow breast.
+Yellow Warbler,"Migratory (Breeds in North America, winters in Central/South America)",10,6.0-7.8,Males have bright yellow plumage with red streaks.
+Yellow-rumped Warbler,Partial Migratory (Northern populations migrate),10,6.5-8.5,"Can digest wax in berries, allowing it to winter farther north."

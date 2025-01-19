@@ -1,0 +1,514 @@
+BCR,BirdName,BirdScientificName,BirdCount
+Northern Rockies,House Wren,Troglodytes aedon,910
+Southern Rockies/Colorado Plateau,Warbling Vireo,Vireo gilvus,1204
+Southern Rockies/Colorado Plateau,Hermit Thrush,Catharus guttatus,238
+Boreal Hardwood Transition,Swainson's Thrush,Catharus ustulatus,274
+Piedmont,Yellow-breasted Chat,Icteria virens,391
+Boreal Hardwood Transition,American Goldfinch,Spinus tristis,272
+Southern Rockies/Colorado Plateau,Yellow Warbler,Setophaga petechia,4112
+Central Hardwoods,Common Yellowthroat,Geothlypis trichas,1923
+Western Alaska,Wilson's Warbler,Cardellina pusilla,1673
+Northern Pacific Rainforest,Swainson's Thrush,Catharus ustulatus,8737
+Eastern Tallgrass Prairie,Song Sparrow,Melospiza melodia,894
+Piedmont,Red-eyed Vireo,Vireo olivaceus,741
+Sierra Madre Occidental,Black-headed Grosbeak,Pheucticus melanocephalus,618
+Eastern Tallgrass Prairie,Traill's Flycatcher,Empidonax alnorum/traillii,602
+Great Basin,Orange-crowned Warbler,Leiothlypis celata,172
+Northern Pacific Rainforest,Downy Woodpecker,Dryobates pubescens,399
+Northern Pacific Rainforest,Common Yellowthroat,Geothlypis trichas,1216
+Southern Rockies/Colorado Plateau,Black-capped Chickadee,Poecile atricapillus,556
+Piedmont,Acadian Flycatcher,Empidonax virescens,519
+New England/Mid-Atlantic Coast,Ovenbird,Seiurus aurocapilla,1761
+Eastern Tallgrass Prairie,Painted Bunting,Passerina ciris,136
+Prairie Hardwood Transition,Yellow Warbler,Setophaga petechia,1325
+Prairie Hardwood Transition,Indigo Bunting,Passerina cyanea,757
+West Gulf Coastal Plain/Ouachitas,Hooded Warbler,Setophaga citrina,200
+Great Basin,Bullock's Oriole,Icterus bullockii,1083
+Prairie Potholes,Swainson's Thrush,Catharus ustulatus,206
+Lower Great Lakes/ St. Lawrence Plain,Wood Thrush,Hylocichla mustelina,325
+Atlantic Northern Forest,Hermit Thrush,Catharus guttatus,527
+Sierra Nevada,Warbling Vireo,Vireo gilvus,2374
+Southern Rockies/Colorado Plateau,House Wren,Troglodytes aedon,613
+Eastern Tallgrass Prairie,Gray Catbird,Dumetella carolinensis,3689
+Central Hardwoods,Eastern Towhee,Pipilo erythrophthalmus,403
+Appalachian Mountains,Indigo Bunting,Passerina cyanea,1089
+Northern Pacific Rainforest,Lazuli Bunting,Passerina amoena,498
+Northern Pacific Rainforest,Hermit Thrush,Catharus guttatus,936
+Lower Great Lakes/ St. Lawrence Plain,American Robin,Turdus migratorius,1072
+Southeastern Coastal Plain,Painted Bunting,Passerina ciris,123
+New England/Mid-Atlantic Coast,White-eyed Vireo,Vireo griseus,302
+Boreal Taiga Plains,Yellow Warbler,Setophaga petechia,179
+Great Basin,Spotted Towhee,Pipilo maculatus,662
+Coastal California,American Goldfinch,Spinus tristis,1576
+Coastal California,House Wren,Troglodytes aedon,1868
+Lower Great Lakes/ St. Lawrence Plain,Gray Catbird,Dumetella carolinensis,2546
+Atlantic Northern Forest,American Goldfinch,Spinus tristis,530
+Prairie Hardwood Transition,Northern Cardinal,Cardinalis cardinalis,722
+Piedmont,Gray Catbird,Dumetella carolinensis,2735
+Sierra Madre Occidental,Northern Cardinal,Cardinalis cardinalis,291
+Boreal Taiga Plains,American Redstart,Setophaga ruticilla,719
+Southern Rockies/Colorado Plateau,Spotted Towhee,Pipilo maculatus,804
+Northern Rockies,Veery,Catharus fuscescens,395
+Eastern Tallgrass Prairie,Prothonotary Warbler,Protonotaria citrea,102
+Prairie Potholes,Gray Catbird,Dumetella carolinensis,1372
+New England/Mid-Atlantic Coast,American Robin,Turdus migratorius,1538
+Coastal California,Warbling Vireo,Vireo gilvus,1640
+Atlantic Northern Forest,Yellow Warbler,Setophaga petechia,195
+Southern Rockies/Colorado Plateau,Song Sparrow,Melospiza melodia,1180
+Appalachian Mountains,Wood Thrush,Hylocichla mustelina,1336
+Sierra Madre Occidental,Western Wood-Pewee,Contopus sordidulus,140
+Sierra Nevada,Western Tanager,Piranga ludoviciana,921
+Appalachian Mountains,Northern Cardinal,Cardinalis cardinalis,1105
+Edwards Plateau,Painted Bunting,Passerina ciris,558
+Central Hardwoods,Ovenbird,Seiurus aurocapilla,1257
+New England/Mid-Atlantic Coast,Prothonotary Warbler,Protonotaria citrea,120
+Northwestern Interior Forest,Black-capped Chickadee,Poecile atricapillus,145
+Prairie Potholes,Black-capped Chickadee,Poecile atricapillus,375
+Eastern Tallgrass Prairie,American Robin,Turdus migratorius,915
+Coastal California,Yellow-breasted Chat,Icteria virens,1044
+Badlands And Prairies,Common Yellowthroat,Geothlypis trichas,118
+Coastal California,Wilson's Warbler,Cardellina pusilla,6166
+Eastern Tallgrass Prairie,Yellow Warbler,Setophaga petechia,1166
+Northern Pacific Rainforest,Lincoln's Sparrow,Melospiza lincolnii,644
+Prairie Hardwood Transition,Veery,Catharus fuscescens,302
+Central Hardwoods,Red-eyed Vireo,Vireo olivaceus,1961
+Coastal California,American Robin,Turdus migratorius,720
+Great Basin,Wilson's Warbler,Cardellina pusilla,2189
+Central Mixed Grass Prairie,Brown-headed Cowbird,Molothrus ater,310
+Prairie Hardwood Transition,Eastern Towhee,Pipilo erythrophthalmus,141
+Great Basin,Bushtit,Psaltriparus minimus,224
+Northern Rockies,Bullock's Oriole,Icterus bullockii,276
+Mississippi Alluvial Valley,Eastern Towhee,Pipilo erythrophthalmus,127
+Piedmont,White-eyed Vireo,Vireo griseus,293
+Sonoran And Mojave Deserts,Western Flycatcher,Empidonax difficilis/occidentalis,528
+Great Basin,Dark-eyed Junco,Junco hyemalis,3158
+Southeastern Coastal Plain,Acadian Flycatcher,Empidonax virescens,900
+Piedmont,Ovenbird,Seiurus aurocapilla,941
+Southeastern Coastal Plain,Prothonotary Warbler,Protonotaria citrea,662
+Great Basin,Black-headed Grosbeak,Pheucticus melanocephalus,1795
+Boreal Hardwood Transition,Ovenbird,Seiurus aurocapilla,626
+Northern Pacific Rainforest,Yellow-breasted Chat,Icteria virens,1179
+Great Basin,Song Sparrow,Melospiza melodia,3546
+Boreal Hardwood Transition,Veery,Catharus fuscescens,542
+Oaks And Prairies,Brown-headed Cowbird,Molothrus ater,210
+Boreal Softwood Shield,American Redstart,Setophaga ruticilla,117
+Northern Rockies,Swainson's Thrush,Catharus ustulatus,3428
+Central Hardwoods,Hooded Warbler,Setophaga citrina,471
+Central Hardwoods,Northern Cardinal,Cardinalis cardinalis,2188
+Piedmont,Hooded Warbler,Setophaga citrina,269
+New England/Mid-Atlantic Coast,House Wren,Troglodytes aedon,199
+Great Basin,Yellow Warbler,Setophaga petechia,3184
+Appalachian Mountains,Black-capped Chickadee,Poecile atricapillus,578
+Piedmont,Indigo Bunting,Passerina cyanea,804
+Lower Great Lakes/ St. Lawrence Plain,Red-eyed Vireo,Vireo olivaceus,561
+Prairie Potholes,House Wren,Troglodytes aedon,1032
+Edwards Plateau,Northern Cardinal,Cardinalis cardinalis,831
+Mississippi Alluvial Valley,Indigo Bunting,Passerina cyanea,1271
+Northern Pacific Rainforest,Western Flycatcher,Empidonax difficilis/occidentalis,2759
+Eastern Tallgrass Prairie,Red-eyed Vireo,Vireo olivaceus,461
+Central Hardwoods,Wood Thrush,Hylocichla mustelina,2954
+Appalachian Mountains,Kentucky Warbler,Geothlypis formosa,214
+Lower Great Lakes/ St. Lawrence Plain,Indigo Bunting,Passerina cyanea,132
+Oaks And Prairies,Painted Bunting,Passerina ciris,1584
+New England/Mid-Atlantic Coast,Downy Woodpecker,Dryobates pubescens,536
+Northern Pacific Rainforest,Western Tanager,Piranga ludoviciana,893
+Boreal Taiga Plains,Yellow-rumped Warbler,Setophaga coronata,511
+Southern Rockies/Colorado Plateau,Black-headed Grosbeak,Pheucticus melanocephalus,992
+Northern Pacific Rainforest,American Robin,Turdus migratorius,2196
+Mississippi Alluvial Valley,Prothonotary Warbler,Protonotaria citrea,1486
+Appalachian Mountains,Ovenbird,Seiurus aurocapilla,1424
+Appalachian Mountains,Carolina Wren,Thryothorus ludovicianus,740
+Eastern Tallgrass Prairie,Carolina Wren,Thryothorus ludovicianus,382
+New England/Mid-Atlantic Coast,Gray Catbird,Dumetella carolinensis,5163
+Northwestern Interior Forest,American Robin,Turdus migratorius,294
+Coastal California,Brown-headed Cowbird,Molothrus ater,393
+Lower Great Lakes/ St. Lawrence Plain,Brown-headed Cowbird,Molothrus ater,162
+Appalachian Mountains,Yellow-breasted Chat,Icteria virens,361
+Coastal California,Orange-crowned Warbler,Leiothlypis celata,3098
+Coastal California,Lazuli Bunting,Passerina amoena,609
+Eastern Tallgrass Prairie,Wood Thrush,Hylocichla mustelina,348
+Sonoran And Mojave Deserts,Common Yellowthroat,Geothlypis trichas,529
+Boreal Taiga Plains,Black-capped Chickadee,Poecile atricapillus,158
+Northern Rockies,Dusky Flycatcher,Empidonax oberholseri,1332
+Tamaulipan Brushlands,Bewick's Wren,Thryomanes bewickii,246
+Coastal California,Downy Woodpecker,Dryobates pubescens,525
+Sonoran And Mojave Deserts,Yellow Warbler,Setophaga petechia,235
+Prairie Hardwood Transition,Wood Thrush,Hylocichla mustelina,319
+Prairie Hardwood Transition,Common Yellowthroat,Geothlypis trichas,2148
+Coastal California,Common Yellowthroat,Geothlypis trichas,3689
+Northwestern Interior Forest,Hermit Thrush,Catharus guttatus,112
+Eastern Tallgrass Prairie,Brown-headed Cowbird,Molothrus ater,464
+Southern Rockies/Colorado Plateau,Bullock's Oriole,Icterus bullockii,255
+West Gulf Coastal Plain/Ouachitas,Prothonotary Warbler,Protonotaria citrea,192
+Eastern Tallgrass Prairie,Black-capped Chickadee,Poecile atricapillus,595
+New England/Mid-Atlantic Coast,Hooded Warbler,Setophaga citrina,274
+Coastal California,Black-headed Grosbeak,Pheucticus melanocephalus,2187
+Coastal California,Yellow Warbler,Setophaga petechia,1766
+Boreal Taiga Plains,Red-eyed Vireo,Vireo olivaceus,348
+Northern Rockies,American Robin,Turdus migratorius,2675
+Prairie Hardwood Transition,American Goldfinch,Spinus tristis,1840
+Mississippi Alluvial Valley,Summer Tanager,Piranga rubra,389
+Northern Pacific Rainforest,American Goldfinch,Spinus tristis,1397
+Northern Rockies,Black-capped Chickadee,Poecile atricapillus,1323
+Southeastern Coastal Plain,Gray Catbird,Dumetella carolinensis,287
+Appalachian Mountains,House Wren,Troglodytes aedon,538
+Piedmont,American Robin,Turdus migratorius,719
+Coastal California,Yellow-rumped Warbler,Setophaga coronata,157
+Coastal California,Western Flycatcher,Empidonax difficilis/occidentalis,2500
+Sonoran And Mojave Deserts,Yellow-breasted Chat,Icteria virens,225
+Northern Pacific Rainforest,Spotted Towhee,Pipilo maculatus,1524
+Sierra Nevada,MacGillivray's Warbler,Geothlypis tolmiei,2749
+Eastern Tallgrass Prairie,Common Yellowthroat,Geothlypis trichas,1716
+Sierra Madre Occidental,Bullock's Oriole,Icterus bullockii,147
+Northern Pacific Rainforest,Purple Finch,Haemorhous purpureus,2471
+Central Hardwoods,Downy Woodpecker,Dryobates pubescens,497
+Mississippi Alluvial Valley,Red-eyed Vireo,Vireo olivaceus,417
+Mississippi Alluvial Valley,Northern Cardinal,Cardinalis cardinalis,1750
+Mississippi Alluvial Valley,Yellow-breasted Chat,Icteria virens,1273
+Appalachian Mountains,Dark-eyed Junco,Junco hyemalis,478
+Sierra Madre Occidental,Song Sparrow,Melospiza melodia,677
+Boreal Taiga Plains,Dark-eyed Junco,Junco hyemalis,110
+Sierra Nevada,Dusky Flycatcher,Empidonax oberholseri,1209
+West Gulf Coastal Plain/Ouachitas,Painted Bunting,Passerina ciris,105
+Appalachian Mountains,Downy Woodpecker,Dryobates pubescens,322
+Boreal Hardwood Transition,Black-capped Chickadee,Poecile atricapillus,328
+Atlantic Northern Forest,Wood Thrush,Hylocichla mustelina,184
+Mississippi Alluvial Valley,Common Yellowthroat,Geothlypis trichas,198
+Northern Rockies,Lincoln's Sparrow,Melospiza lincolnii,998
+Southeastern Coastal Plain,Common Yellowthroat,Geothlypis trichas,667
+Gulf Coastal Prairie,Northern Cardinal,Cardinalis cardinalis,270
+Eastern Tallgrass Prairie,House Wren,Troglodytes aedon,1269
+Mississippi Alluvial Valley,Hooded Warbler,Setophaga citrina,1388
+Sonoran And Mojave Deserts,House Wren,Troglodytes aedon,138
+Northern Pacific Rainforest,Bushtit,Psaltriparus minimus,537
+Boreal Hardwood Transition,Traill's Flycatcher,Empidonax alnorum/traillii,446
+Atlantic Northern Forest,Gray Catbird,Dumetella carolinensis,669
+Prairie Hardwood Transition,Field Sparrow,Spizella pusilla,804
+West Gulf Coastal Plain/Ouachitas,Common Yellowthroat,Geothlypis trichas,115
+Northern Pacific Rainforest,Yellow-rumped Warbler,Setophaga coronata,772
+Prairie Potholes,Veery,Catharus fuscescens,129
+Sonoran And Mojave Deserts,Bullock's Oriole,Icterus bullockii,428
+New England/Mid-Atlantic Coast,Common Yellowthroat,Geothlypis trichas,1795
+Northwestern Interior Forest,Traill's Flycatcher,Empidonax alnorum/traillii,398
+Great Basin,American Robin,Turdus migratorius,3508
+Lower Great Lakes/ St. Lawrence Plain,Yellow Warbler,Setophaga petechia,2094
+Coastal California,Swainson's Thrush,Catharus ustulatus,5627
+Northern Rockies,Downy Woodpecker,Dryobates pubescens,252
+Eastern Tallgrass Prairie,White-eyed Vireo,Vireo griseus,296
+Southeastern Coastal Plain,American Robin,Turdus migratorius,226
+Prairie Potholes,American Redstart,Setophaga ruticilla,381
+Oaks And Prairies,Bewick's Wren,Thryomanes bewickii,382
+Southern Rockies/Colorado Plateau,Lazuli Bunting,Passerina amoena,538
+Southern Rockies/Colorado Plateau,Swainson's Thrush,Catharus ustulatus,296
+Sonoran And Mojave Deserts,Song Sparrow,Melospiza melodia,363
+Sierra Nevada,Dark-eyed Junco,Junco hyemalis,3856
+Southeastern Coastal Plain,Northern Cardinal,Cardinalis cardinalis,1942
+Prairie Potholes,Warbling Vireo,Vireo gilvus,221
+Southeastern Coastal Plain,Indigo Bunting,Passerina cyanea,468
+Great Basin,Warbling Vireo,Vireo gilvus,2801
+Northern Rockies,Black-headed Grosbeak,Pheucticus melanocephalus,938
+Prairie Potholes,Brown-headed Cowbird,Molothrus ater,208
+Eastern Tallgrass Prairie,American Goldfinch,Spinus tristis,2176
+Coastal California,Bushtit,Psaltriparus minimus,3121
+Northern Pacific Rainforest,MacGillivray's Warbler,Geothlypis tolmiei,3185
+Northern Pacific Rainforest,Bewick's Wren,Thryomanes bewickii,587
+Northern Rockies,Traill's Flycatcher,Empidonax alnorum/traillii,1771
+Sierra Nevada,Wilson's Warbler,Cardellina pusilla,2359
+Prairie Hardwood Transition,Traill's Flycatcher,Empidonax alnorum/traillii,566
+Southeastern Coastal Plain,American Redstart,Setophaga ruticilla,103
+Piedmont,Carolina Wren,Thryothorus ludovicianus,759
+Mississippi Alluvial Valley,Painted Bunting,Passerina ciris,128
+Tamaulipan Brushlands,White-eyed Vireo,Vireo griseus,243
+Boreal Hardwood Transition,American Redstart,Setophaga ruticilla,1015
+West Gulf Coastal Plain/Ouachitas,Northern Cardinal,Cardinalis cardinalis,617
+Boreal Taiga Plains,Swainson's Thrush,Catharus ustulatus,827
+Sierra Nevada,Yellow Warbler,Setophaga petechia,1133
+Sierra Nevada,Lincoln's Sparrow,Melospiza lincolnii,1845
+Central Hardwoods,Yellow-breasted Chat,Icteria virens,1651
+West Gulf Coastal Plain/Ouachitas,Indigo Bunting,Passerina cyanea,689
+Appalachian Mountains,American Robin,Turdus migratorius,734
+Coastal California,Lincoln's Sparrow,Melospiza lincolnii,208
+Southeastern Coastal Plain,Eastern Towhee,Pipilo erythrophthalmus,265
+New England/Mid-Atlantic Coast,Black-capped Chickadee,Poecile atricapillus,1105
+Tamaulipan Brushlands,Yellow-breasted Chat,Icteria virens,333
+Northern Pacific Rainforest,Brown-headed Cowbird,Molothrus ater,402
+Prairie Hardwood Transition,Brown-headed Cowbird,Molothrus ater,279
+Atlantic Northern Forest,Song Sparrow,Melospiza melodia,391
+Sierra Nevada,Hermit Thrush,Catharus guttatus,188
+Coastal California,Spotted Towhee,Pipilo maculatus,2893
+Prairie Potholes,American Robin,Turdus migratorius,703
+Lower Great Lakes/ St. Lawrence Plain,Song Sparrow,Melospiza melodia,1880
+Appalachian Mountains,Acadian Flycatcher,Empidonax virescens,250
+Northern Rockies,Western Flycatcher,Empidonax difficilis/occidentalis,128
+Atlantic Northern Forest,White-throated Sparrow,Zonotrichia albicollis,726
+Appalachian Mountains,Red-eyed Vireo,Vireo olivaceus,1303
+Appalachian Mountains,Hooded Warbler,Setophaga citrina,914
+Oaks And Prairies,Northern Cardinal,Cardinalis cardinalis,1835
+Piedmont,Northern Cardinal,Cardinalis cardinalis,1552
+Piedmont,Song Sparrow,Melospiza melodia,103
+Sierra Nevada,Spotted Towhee,Pipilo maculatus,253
+Eastern Tallgrass Prairie,Eastern Towhee,Pipilo erythrophthalmus,122
+Prairie Hardwood Transition,Black-capped Chickadee,Poecile atricapillus,620
+Central Mixed Grass Prairie,Northern Cardinal,Cardinalis cardinalis,166
+Eastern Tallgrass Prairie,Northern Cardinal,Cardinalis cardinalis,1812
+Mississippi Alluvial Valley,Downy Woodpecker,Dryobates pubescens,247
+Southeastern Coastal Plain,White-eyed Vireo,Vireo griseus,1088
+Southeastern Coastal Plain,Carolina Wren,Thryothorus ludovicianus,1706
+Lower Great Lakes/ St. Lawrence Plain,Traill's Flycatcher,Empidonax alnorum/traillii,719
+Atlantic Northern Forest,Downy Woodpecker,Dryobates pubescens,164
+Eastern Tallgrass Prairie,Ovenbird,Seiurus aurocapilla,109
+Central Hardwoods,Acadian Flycatcher,Empidonax virescens,2285
+Prairie Hardwood Transition,American Redstart,Setophaga ruticilla,219
+Prairie Hardwood Transition,Downy Woodpecker,Dryobates pubescens,293
+Eastern Tallgrass Prairie,Downy Woodpecker,Dryobates pubescens,542
+Northwestern Interior Forest,Swainson's Thrush,Catharus ustulatus,639
+Great Basin,Western Flycatcher,Empidonax difficilis/occidentalis,695
+Western Alaska,Hermit Thrush,Catharus guttatus,307
+Northern Pacific Rainforest,House Wren,Troglodytes aedon,241
+Northern Rockies,Yellow-breasted Chat,Icteria virens,223
+Northern Rockies,MacGillivray's Warbler,Geothlypis tolmiei,3149
+Prairie Potholes,Western Wood-Pewee,Contopus sordidulus,153
+Boreal Hardwood Transition,Song Sparrow,Melospiza melodia,350
+Boreal Hardwood Transition,White-throated Sparrow,Zonotrichia albicollis,587
+Southeastern Coastal Plain,Ovenbird,Seiurus aurocapilla,795
+Northern Rockies,Hermit Thrush,Catharus guttatus,124
+Boreal Hardwood Transition,Purple Finch,Haemorhous purpureus,109
+Appalachian Mountains,Eastern Towhee,Pipilo erythrophthalmus,607
+New England/Mid-Atlantic Coast,Wood Thrush,Hylocichla mustelina,2674
+Coastal California,Dark-eyed Junco,Junco hyemalis,472
+Lower Great Lakes/ St. Lawrence Plain,Black-capped Chickadee,Poecile atricapillus,778
+Oaks And Prairies,Summer Tanager,Piranga rubra,279
+Oaks And Prairies,Carolina Wren,Thryothorus ludovicianus,538
+Central Hardwoods,Field Sparrow,Spizella pusilla,1096
+New England/Mid-Atlantic Coast,American Goldfinch,Spinus tristis,875
+Northern Pacific Rainforest,Black-headed Grosbeak,Pheucticus melanocephalus,2047
+Sierra Nevada,American Robin,Turdus migratorius,1222
+Appalachian Mountains,American Goldfinch,Spinus tristis,1222
+Piedmont,Wood Thrush,Hylocichla mustelina,1721
+Boreal Taiga Plains,Wilson's Warbler,Cardellina pusilla,155
+Great Basin,Purple Finch,Haemorhous purpureus,1873
+Mississippi Alluvial Valley,American Redstart,Setophaga ruticilla,157
+Coastal California,Purple Finch,Haemorhous purpureus,2080
+Piedmont,Field Sparrow,Spizella pusilla,297
+Central Hardwoods,American Redstart,Setophaga ruticilla,283
+Sierra Madre Occidental,Bewick's Wren,Thryomanes bewickii,720
+Sierra Madre Occidental,Warbling Vireo,Vireo gilvus,196
+Gulf Coastal Prairie,Painted Bunting,Passerina ciris,177
+Southeastern Coastal Plain,Yellow-breasted Chat,Icteria virens,125
+Tamaulipan Brushlands,Painted Bunting,Passerina ciris,1483
+Great Basin,MacGillivray's Warbler,Geothlypis tolmiei,3231
+Lower Great Lakes/ St. Lawrence Plain,White-throated Sparrow,Zonotrichia albicollis,170
+Atlantic Northern Forest,Swainson's Thrush,Catharus ustulatus,319
+Great Basin,Bewick's Wren,Thryomanes bewickii,319
+Great Basin,Common Yellowthroat,Geothlypis trichas,682
+Piedmont,Eastern Towhee,Pipilo erythrophthalmus,229
+New England/Mid-Atlantic Coast,Eastern Towhee,Pipilo erythrophthalmus,387
+Northern Rockies,Yellow Warbler,Setophaga petechia,4577
+New England/Mid-Atlantic Coast,Song Sparrow,Melospiza melodia,388
+Appalachian Mountains,Song Sparrow,Melospiza melodia,1340
+Badlands And Prairies,Yellow Warbler,Setophaga petechia,263
+Oaks And Prairies,White-eyed Vireo,Vireo griseus,1016
+Northern Pacific Rainforest,Yellow Warbler,Setophaga petechia,1598
+Northern Pacific Rainforest,Dusky Flycatcher,Empidonax oberholseri,484
+Southern Rockies/Colorado Plateau,Bushtit,Psaltriparus minimus,424
+Eastern Tallgrass Prairie,Field Sparrow,Spizella pusilla,1428
+Northern Pacific Rainforest,Orange-crowned Warbler,Leiothlypis celata,2355
+Great Basin,Swainson's Thrush,Catharus ustulatus,1778
+Northern Rockies,Gray Catbird,Dumetella carolinensis,2070
+Mississippi Alluvial Valley,Acadian Flycatcher,Empidonax virescens,1682
+Great Basin,Downy Woodpecker,Dryobates pubescens,333
+Prairie Potholes,Traill's Flycatcher,Empidonax alnorum/traillii,168
+Southeastern Coastal Plain,Hooded Warbler,Setophaga citrina,1343
+Northern Pacific Rainforest,Warbling Vireo,Vireo gilvus,1181
+Boreal Taiga Plains,American Robin,Turdus migratorius,405
+Southeastern Coastal Plain,Downy Woodpecker,Dryobates pubescens,178
+Boreal Taiga Plains,Hermit Thrush,Catharus guttatus,127
+Northern Rockies,Common Yellowthroat,Geothlypis trichas,1743
+Atlantic Northern Forest,Common Yellowthroat,Geothlypis trichas,789
+Sierra Nevada,Lazuli Bunting,Passerina amoena,654
+Great Basin,House Wren,Troglodytes aedon,952
+Lower Great Lakes/ St. Lawrence Plain,Downy Woodpecker,Dryobates pubescens,294
+Southern Rockies/Colorado Plateau,American Goldfinch,Spinus tristis,870
+Mississippi Alluvial Valley,Wood Thrush,Hylocichla mustelina,264
+Piedmont,Kentucky Warbler,Geothlypis formosa,102
+Great Basin,Dusky Flycatcher,Empidonax oberholseri,1858
+Southern Rockies/Colorado Plateau,Bewick's Wren,Thryomanes bewickii,297
+Central Hardwoods,American Goldfinch,Spinus tristis,1199
+Western Alaska,Orange-crowned Warbler,Leiothlypis celata,362
+Boreal Taiga Plains,Ovenbird,Seiurus aurocapilla,790
+Prairie Potholes,American Goldfinch,Spinus tristis,846
+Southern Rockies/Colorado Plateau,Western Flycatcher,Empidonax difficilis/occidentalis,171
+Prairie Hardwood Transition,Red-eyed Vireo,Vireo olivaceus,230
+Mississippi Alluvial Valley,Brown-headed Cowbird,Molothrus ater,261
+Piedmont,Common Yellowthroat,Geothlypis trichas,1172
+Northern Rockies,Song Sparrow,Melospiza melodia,2437
+Prairie Potholes,Yellow Warbler,Setophaga petechia,1971
+Southern Rockies/Colorado Plateau,Yellow-breasted Chat,Icteria virens,484
+Appalachian Mountains,Traill's Flycatcher,Empidonax alnorum/traillii,345
+Piedmont,Downy Woodpecker,Dryobates pubescens,217
+Prairie Hardwood Transition,Song Sparrow,Melospiza melodia,1749
+Boreal Taiga Plains,Lincoln's Sparrow,Melospiza lincolnii,391
+Great Basin,Hermit Thrush,Catharus guttatus,540
+Northern Rockies,American Redstart,Setophaga ruticilla,823
+Lower Great Lakes/ St. Lawrence Plain,American Redstart,Setophaga ruticilla,379
+Northern Rockies,Brown-headed Cowbird,Molothrus ater,528
+Atlantic Northern Forest,American Robin,Turdus migratorius,578
+Northern Rockies,Yellow-rumped Warbler,Setophaga coronata,1166
+Northwestern Interior Forest,Lincoln's Sparrow,Melospiza lincolnii,245
+Eastern Tallgrass Prairie,Kentucky Warbler,Geothlypis formosa,309
+West Gulf Coastal Plain/Ouachitas,Yellow-breasted Chat,Icteria virens,245
+Southern Rockies/Colorado Plateau,MacGillivray's Warbler,Geothlypis tolmiei,1054
+New England/Mid-Atlantic Coast,Carolina Wren,Thryothorus ludovicianus,634
+New England/Mid-Atlantic Coast,Acadian Flycatcher,Empidonax virescens,1034
+Northern Pacific Rainforest,Bullock's Oriole,Icterus bullockii,479
+Atlantic Northern Forest,Traill's Flycatcher,Empidonax alnorum/traillii,573
+Piedmont,Veery,Catharus fuscescens,420
+Southern Rockies/Colorado Plateau,American Robin,Turdus migratorius,1385
+Appalachian Mountains,American Redstart,Setophaga ruticilla,1815
+Sierra Madre Occidental,Western Flycatcher,Empidonax difficilis/occidentalis,405
+Atlantic Northern Forest,Dark-eyed Junco,Junco hyemalis,191
+Prairie Hardwood Transition,Warbling Vireo,Vireo gilvus,102
+Coastal California,Song Sparrow,Melospiza melodia,5969
+Sonoran And Mojave Deserts,Bewick's Wren,Thryomanes bewickii,119
+Great Basin,Black-capped Chickadee,Poecile atricapillus,206
+Northern Rockies,Red-eyed Vireo,Vireo olivaceus,268
+West Gulf Coastal Plain/Ouachitas,Kentucky Warbler,Geothlypis formosa,280
+Southeastern Coastal Plain,Summer Tanager,Piranga rubra,321
+Sierra Madre Occidental,Summer Tanager,Piranga rubra,713
+Lower Great Lakes/ St. Lawrence Plain,House Wren,Troglodytes aedon,349
+Great Basin,Lazuli Bunting,Passerina amoena,1506
+Southern Rockies/Colorado Plateau,Common Yellowthroat,Geothlypis trichas,147
+Sierra Madre Occidental,Brown-headed Cowbird,Molothrus ater,169
+Lower Great Lakes/ St. Lawrence Plain,Ovenbird,Seiurus aurocapilla,309
+Sierra Nevada,Purple Finch,Haemorhous purpureus,926
+Southern Rockies/Colorado Plateau,Gray Catbird,Dumetella carolinensis,647
+Sierra Madre Occidental,Common Yellowthroat,Geothlypis trichas,1152
+Appalachian Mountains,White-eyed Vireo,Vireo griseus,374
+Prairie Potholes,Song Sparrow,Melospiza melodia,389
+Sierra Nevada,Traill's Flycatcher,Empidonax alnorum/traillii,148
+Central Hardwoods,Carolina Wren,Thryothorus ludovicianus,1037
+Appalachian Mountains,Common Yellowthroat,Geothlypis trichas,1275
+Sierra Madre Occidental,Western Tanager,Piranga ludoviciana,534
+Prairie Potholes,Red-eyed Vireo,Vireo olivaceus,224
+Appalachian Mountains,Gray Catbird,Dumetella carolinensis,3728
+Northwestern Interior Forest,Yellow-rumped Warbler,Setophaga coronata,608
+Sierra Nevada,Yellow-rumped Warbler,Setophaga coronata,2783
+Southern Rockies/Colorado Plateau,Yellow-rumped Warbler,Setophaga coronata,352
+Prairie Hardwood Transition,Ovenbird,Seiurus aurocapilla,406
+Edwards Plateau,White-eyed Vireo,Vireo griseus,1052
+Sonoran And Mojave Deserts,Brown-headed Cowbird,Molothrus ater,197
+Sierra Madre Occidental,Yellow Warbler,Setophaga petechia,787
+Northern Rockies,Lazuli Bunting,Passerina amoena,684
+Southeastern Coastal Plain,Wood Thrush,Hylocichla mustelina,849
+Tamaulipan Brushlands,Northern Cardinal,Cardinalis cardinalis,522
+Northern Rockies,Dark-eyed Junco,Junco hyemalis,1309
+Prairie Potholes,Black-headed Grosbeak,Pheucticus melanocephalus,116
+Central Hardwoods,White-eyed Vireo,Vireo griseus,1317
+Edwards Plateau,Carolina Wren,Thryothorus ludovicianus,219
+Great Basin,Gray Catbird,Dumetella carolinensis,428
+Lower Great Lakes/ St. Lawrence Plain,Northern Cardinal,Cardinalis cardinalis,363
+Great Basin,Lincoln's Sparrow,Melospiza lincolnii,879
+Northern Rockies,Western Tanager,Piranga ludoviciana,1286
+Northern Rockies,Orange-crowned Warbler,Leiothlypis celata,887
+Southern Rockies/Colorado Plateau,Western Wood-Pewee,Contopus sordidulus,341
+Gulf Coastal Prairie,White-eyed Vireo,Vireo griseus,143
+Atlantic Northern Forest,Yellow-rumped Warbler,Setophaga coronata,427
+Eastern Tallgrass Prairie,Warbling Vireo,Vireo gilvus,106
+Central Hardwoods,Brown-headed Cowbird,Molothrus ater,250
+Boreal Hardwood Transition,Gray Catbird,Dumetella carolinensis,172
+Atlantic Northern Forest,Black-capped Chickadee,Poecile atricapillus,615
+Mississippi Alluvial Valley,Carolina Wren,Thryothorus ludovicianus,2213
+Great Basin,Western Wood-Pewee,Contopus sordidulus,1372
+Great Basin,Western Tanager,Piranga ludoviciana,2134
+Sierra Nevada,Black-headed Grosbeak,Pheucticus melanocephalus,773
+Central Hardwoods,American Robin,Turdus migratorius,390
+Central Hardwoods,Gray Catbird,Dumetella carolinensis,1494
+Piedmont,Prothonotary Warbler,Protonotaria citrea,163
+Prairie Hardwood Transition,Gray Catbird,Dumetella carolinensis,3422
+Sierra Nevada,Western Flycatcher,Empidonax difficilis/occidentalis,260
+New England/Mid-Atlantic Coast,Indigo Bunting,Passerina cyanea,170
+Northwestern Interior Forest,Wilson's Warbler,Cardellina pusilla,890
+Great Basin,American Goldfinch,Spinus tristis,848
+Lower Great Lakes/ St. Lawrence Plain,Field Sparrow,Spizella pusilla,243
+Boreal Taiga Plains,Common Yellowthroat,Geothlypis trichas,156
+Lower Great Lakes/ St. Lawrence Plain,American Goldfinch,Spinus tristis,2226
+Lower Great Lakes/ St. Lawrence Plain,Common Yellowthroat,Geothlypis trichas,1509
+New England/Mid-Atlantic Coast,American Redstart,Setophaga ruticilla,555
+Sierra Madre Occidental,Traill's Flycatcher,Empidonax alnorum/traillii,103
+Southeastern Coastal Plain,Kentucky Warbler,Geothlypis formosa,513
+Northern Pacific Rainforest,Traill's Flycatcher,Empidonax alnorum/traillii,1324
+Great Basin,Yellow-breasted Chat,Icteria virens,348
+Southern Rockies/Colorado Plateau,Western Tanager,Piranga ludoviciana,544
+Great Basin,Yellow-rumped Warbler,Setophaga coronata,2380
+Oaks And Prairies,Field Sparrow,Spizella pusilla,324
+Boreal Taiga Plains,White-throated Sparrow,Zonotrichia albicollis,1712
+Appalachian Mountains,Field Sparrow,Spizella pusilla,327
+Sierra Madre Occidental,Yellow-breasted Chat,Icteria virens,2694
+Northern Rockies,Warbling Vireo,Vireo gilvus,1767
+New England/Mid-Atlantic Coast,Northern Cardinal,Cardinalis cardinalis,1233
+Lower Great Lakes/ St. Lawrence Plain,Veery,Catharus fuscescens,469
+Northern Pacific Rainforest,Western Wood-Pewee,Contopus sordidulus,455
+Southern Rockies/Colorado Plateau,Orange-crowned Warbler,Leiothlypis celata,279
+Central Hardwoods,Kentucky Warbler,Geothlypis formosa,2860
+Eastern Tallgrass Prairie,Yellow-breasted Chat,Icteria virens,418
+Southeastern Coastal Plain,Red-eyed Vireo,Vireo olivaceus,468
+Northwestern Interior Forest,Yellow Warbler,Setophaga petechia,566
+Boreal Hardwood Transition,Common Yellowthroat,Geothlypis trichas,487
+Central Mixed Grass Prairie,Painted Bunting,Passerina ciris,488
+Atlantic Northern Forest,Veery,Catharus fuscescens,739
+Northern Pacific Rainforest,Song Sparrow,Melospiza melodia,5145
+Northern Rockies,Wilson's Warbler,Cardellina pusilla,1047
+Boreal Hardwood Transition,Red-eyed Vireo,Vireo olivaceus,597
+Appalachian Mountains,Yellow Warbler,Setophaga petechia,585
+Southern Rockies/Colorado Plateau,Traill's Flycatcher,Empidonax alnorum/traillii,201
+Boreal Hardwood Transition,American Robin,Turdus migratorius,200
+Sierra Nevada,House Wren,Troglodytes aedon,134
+Central Hardwoods,Indigo Bunting,Passerina cyanea,3446
+Prairie Potholes,Common Yellowthroat,Geothlypis trichas,485
+Coastal California,Western Wood-Pewee,Contopus sordidulus,471
+Southern Rockies/Colorado Plateau,Lincoln's Sparrow,Melospiza lincolnii,471
+West Gulf Coastal Plain/Ouachitas,Carolina Wren,Thryothorus ludovicianus,329
+Southern Rockies/Colorado Plateau,Wilson's Warbler,Cardellina pusilla,328
+Piedmont,American Goldfinch,Spinus tristis,473
+New England/Mid-Atlantic Coast,Hermit Thrush,Catharus guttatus,215
+Southern Rockies/Colorado Plateau,Brown-headed Cowbird,Molothrus ater,367
+Prairie Hardwood Transition,House Wren,Troglodytes aedon,476
+Tamaulipan Brushlands,Bullock's Oriole,Icterus bullockii,117
+Northern Pacific Rainforest,Wilson's Warbler,Cardellina pusilla,4967
+Southern Rockies/Colorado Plateau,Dark-eyed Junco,Junco hyemalis,218
+Prairie Hardwood Transition,American Robin,Turdus migratorius,735
+New England/Mid-Atlantic Coast,Brown-headed Cowbird,Molothrus ater,158
+Atlantic Northern Forest,Red-eyed Vireo,Vireo olivaceus,470
+New England/Mid-Atlantic Coast,Veery,Catharus fuscescens,1110
+New England/Mid-Atlantic Coast,Kentucky Warbler,Geothlypis formosa,180
+Northern Pacific Rainforest,Black-capped Chickadee,Poecile atricapillus,596
+Sierra Nevada,Western Wood-Pewee,Contopus sordidulus,745
+Appalachian Mountains,Veery,Catharus fuscescens,1188
+Eastern Tallgrass Prairie,Indigo Bunting,Passerina cyanea,1936
+West Gulf Coastal Plain/Ouachitas,White-eyed Vireo,Vireo griseus,293
+Boreal Hardwood Transition,Yellow Warbler,Setophaga petechia,106
+New England/Mid-Atlantic Coast,Red-eyed Vireo,Vireo olivaceus,2448
+Boreal Taiga Plains,Traill's Flycatcher,Empidonax alnorum/traillii,638
+Northwestern Interior Forest,Dark-eyed Junco,Junco hyemalis,533
+Lower Great Lakes/ St. Lawrence Plain,Warbling Vireo,Vireo gilvus,139
+Southern Rockies/Colorado Plateau,Dusky Flycatcher,Empidonax oberholseri,634
+Great Basin,Traill's Flycatcher,Empidonax alnorum/traillii,970
+Northern Rockies,Spotted Towhee,Pipilo maculatus,263
+Central Hardwoods,Summer Tanager,Piranga rubra,303
+Northern Rockies,American Goldfinch,Spinus tristis,1100
+Edwards Plateau,Bewick's Wren,Thryomanes bewickii,152
+Mississippi Alluvial Valley,Kentucky Warbler,Geothlypis formosa,1054
+Mississippi Alluvial Valley,White-eyed Vireo,Vireo griseus,2245
+New England/Mid-Atlantic Coast,Yellow Warbler,Setophaga petechia,420
+Western Alaska,Yellow Warbler,Setophaga petechia,462
+Atlantic Northern Forest,Ovenbird,Seiurus aurocapilla,727
+Sierra Nevada,Song Sparrow,Melospiza melodia,1995
+Coastal California,Bewick's Wren,Thryomanes bewickii,2237
+Coastal California,MacGillivray's Warbler,Geothlypis tolmiei,292
+Northwestern Interior Forest,Orange-crowned Warbler,Leiothlypis celata,552
+Eastern Tallgrass Prairie,American Redstart,Setophaga ruticilla,166
+Northern Pacific Rainforest,Dark-eyed Junco,Junco hyemalis,2887
+Northern Rockies,Western Wood-Pewee,Contopus sordidulus,521
+Atlantic Northern Forest,American Redstart,Setophaga ruticilla,695
+Coastal California,Bullock's Oriole,Icterus bullockii,576
+Great Basin,Brown-headed Cowbird,Molothrus ater,724
